@@ -19,6 +19,7 @@ interface CourtCardProps {
 
 const CourtCard = ({ court }: CourtCardProps) => {
   const [hover, setHover] = useState(false);
+  const utmCoords = transformWGS1984ToITM(court.coords);
   return (
     <Card
       dir="rtl"
@@ -45,7 +46,7 @@ const CourtCard = ({ court }: CourtCardProps) => {
           Icon={OpenInNew}
         />
         <LinkButton
-          href={`https://www.google.com/maps/dir/?api=1&destination=${court.coords.y},${court.coords.x}`}
+          href={`https://www.google.com/maps/dir/?api=1&destination=${utmCoords.y},${utmCoords.x}`}
           text={"ניווט בגוגל"}
           Icon={Directions}
         />
