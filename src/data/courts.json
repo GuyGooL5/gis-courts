@@ -1,0 +1,1322 @@
+[
+  {
+    "id": 1,
+    "coords": { "x": 180137, "y": 664985 },
+    "data": {
+      "name": "בית המשפט המחוזי - תל אביב",
+      "type": "בתי המשפט המחוזיים",
+      "city": "תל אביב-יפו",
+      "address": "רחוב ויצמן 1, תל אביב-יפו",
+      "info_center": "077-2703333",
+      "info_url": "https://www.gov.il/he/departments/bureaus/district_courts_reception_of_the_public_tel_aviv"
+    }
+  },
+  {
+    "id": 2,
+    "coords": { "x": 180137, "y": 664985 },
+    "data": {
+      "name": "בית משפט השלום - מחוז תל אביב - תל אביב-יפו",
+      "type": "בתי משפט השלום",
+      "city": "תל אביב-יפו",
+      "address": "רחוב ויצמן 1, תל אביב-יפו",
+      "info_center": "077-2703333",
+      "info_url": "https://www.gov.il/he/departments/bureaus/magistrates_courts_reception_of_the_public_tel_aviv"
+    }
+  },
+  {
+    "id": 3,
+    "coords": { "x": 180137, "y": 664985 },
+    "data": {
+      "name": "בית המשפט לענייני משפחה - תל אביב",
+      "type": "בתי המשפט לענייני משפחה",
+      "city": "תל אביב-יפו",
+      "address": "רחוב ויצמן 1, תל אביב-יפו",
+      "info_center": "077-2703333",
+      "info_url": "https://www.gov.il/he/departments/bureaus/family_courts_reception_telaviv_court"
+    }
+  },
+  {
+    "id": 4,
+    "coords": { "x": 180137, "y": 664985 },
+    "data": {
+      "name": "בית המשפט לתביעות קטנות - תל אביב",
+      "type": "בתי המשפט לתביעות קטנות",
+      "city": "תל אביב-יפו",
+      "address": "רחוב ויצמן 1, תל אביב-יפו",
+      "info_center": "077-2703333",
+      "info_url": "https://www.gov.il/he/departments/bureaus/courts_reception_of_the_public_tel_aviv"
+    }
+  },
+  {
+    "id": 5,
+    "coords": { "x": 178646.4694, "y": 662112.173 },
+    "data": {
+      "name": "בית משפט שוקן תל-אביב",
+      "type": "בתי משפט השלום",
+      "city": "תל אביב-יפו",
+      "address": "רחוב שוקן 25, תל אביב-יפו",
+      "info_center": "077-2703333",
+      "info_url": "https://www.gov.il/he/departments/bureaus/magistrates_courts_reception_of_the_public_tel_aviv_schocken"
+    }
+  },
+  {
+    "id": 6,
+    "coords": { "x": 176404, "y": 657133 },
+    "data": {
+      "name": "בית המשפט לתעבורה - מחוז תל אביב - בת ים",
+      "type": "בתי המשפט לתעבורה",
+      "city": "בת ים",
+      "address": "רחוב הרב יצחק ניסנבוים 7, בת ים",
+      "info_center": "077-2703333",
+      "info_url": "https://www.gov.il/he/departments/bureaus/traffic_courts_reception_of_the_public_tel_aviv"
+    }
+  },
+  {
+    "id": 7,
+    "coords": { "x": 180387, "y": 665026 },
+    "data": {
+      "name": "בית המשפט לעניינים מקומיים - תל אביב",
+      "type": "בתי המשפט לעניינים מקומיים",
+      "city": "תל אביב-יפו",
+      "address": "שדרות שאול המלך 39, תל אביב-יפו",
+      "info_center": "077-2703333",
+      "info_url": "https://www.gov.il/he/departments/bureaus/local_affairs_court_reception_of_the_public_tel_aviv"
+    }
+  },
+  {
+    "id": 13,
+    "coords": { "x": 216262, "y": 667946 },
+    "data": {
+      "name": "בית המשפט לעניינים מקומיים - אריאל",
+      "type": "בתי המשפט לעניינים מקומיים",
+      "city": "אריאל",
+      "address": "רחוב יהודה 15, אריאל",
+      "info_center": "077-2703333",
+      "info_url": "https://www.gov.il/he/departments/bureaus/local_affairs_court_reception_of_the_public_ariel"
+    }
+  },
+  {
+    "id": 14,
+    "coords": { "x": 167677, "y": 634786 },
+    "data": {
+      "name": "בית המשפט לנוער - אשדוד",
+      "type": "בתי משפט לנוער",
+      "city": "אשדוד",
+      "address": "רחוב מורדי הגטאות 1, אשדוד",
+      "info_center": "077-2703333",
+      "info_url": "https://www.gov.il/he/departments/bureaus/juvenile_courts_reception_of_the_public_ashdod"
+    }
+  },
+  {
+    "id": 15,
+    "coords": { "x": 167677, "y": 634786 },
+    "data": {
+      "name": "בית המשפט לענייני משפחה - אשדוד",
+      "type": "בתי המשפט לענייני משפחה",
+      "city": "אשדוד",
+      "address": "רחוב מורדי הגטאות 1, אשדוד",
+      "info_center": "077-2703333",
+      "info_url": "https://www.gov.il/he/departments/bureaus/family_courts_reception_of_the_public_ashdod"
+    }
+  },
+  {
+    "id": 16,
+    "coords": { "x": 167677, "y": 634786 },
+    "data": {
+      "name": "בית המשפט לתביעות קטנות - אשדוד",
+      "type": "בתי המשפט לתביעות קטנות",
+      "city": "אשדוד",
+      "address": "רחוב מורדי הגטאות 1, אשדוד",
+      "info_center": "077-2703333",
+      "info_url": "https://www.gov.il/he/departments/bureaus/courts_reception_of_the_public_ashdod"
+    }
+  },
+  {
+    "id": 17,
+    "coords": { "x": 167677, "y": 634786 },
+    "data": {
+      "name": "בית המשפט לתעבורה - אשדוד",
+      "type": "בתי המשפט לתעבורה",
+      "city": "אשדוד",
+      "address": "רחוב מורדי הגטאות 1, אשדוד",
+      "info_center": "077-2703333",
+      "info_url": "https://www.gov.il/he/departments/bureaus/traffic_courts_reception_of_the_public_ashdod"
+    }
+  },
+  {
+    "id": 18,
+    "coords": { "x": 167677, "y": 634786 },
+    "data": {
+      "name": "בית משפט השלום - מחוז דרום - אשדוד",
+      "type": "בתי משפט השלום",
+      "city": "אשדוד",
+      "address": "רחוב מורדי הגטאות 1, אשדוד",
+      "info_center": "077-2703333",
+      "info_url": "https://www.gov.il/he/departments/bureaus/magistrates_courts_reception_of_the_public_ashdod"
+    }
+  },
+  {
+    "id": 19,
+    "coords": { "x": 158710, "y": 619281 },
+    "data": {
+      "name": "בית המשפט לנוער - אשקלון",
+      "type": "בתי משפט לנוער",
+      "city": "אשקלון",
+      "address": "שדרות בן-גוריון 19, אשקלון",
+      "info_center": "077-2703333",
+      "info_url": "https://www.gov.il/he/departments/bureaus/juvenile_courts_reception_of_the_public_ashkelon"
+    }
+  },
+  {
+    "id": 20,
+    "coords": { "x": 158710, "y": 619281 },
+    "data": {
+      "name": "בית המשפט לתביעות קטנות - אשקלון",
+      "type": "בתי המשפט לתביעות קטנות",
+      "city": "אשקלון",
+      "address": "שדרות בן-גוריון 19, אשקלון",
+      "info_center": "077-2703333",
+      "info_url": "https://www.gov.il/he/departments/bureaus/courts_reception_of_the_public_ashkelon"
+    }
+  },
+  {
+    "id": 21,
+    "coords": { "x": 158710, "y": 619281 },
+    "data": {
+      "name": "בית משפט השלום - מחוז דרום - אשקלון",
+      "type": "בתי משפט השלום",
+      "city": "אשקלון",
+      "address": "שדרות בן-גוריון 19, אשקלון",
+      "info_center": "077-2703333",
+      "info_url": "https://www.gov.il/he/departments/bureaus/magistrates_courts_reception_of_the_public_ashkelon"
+    }
+  },
+  {
+    "id": 22,
+    "coords": { "x": 180850, "y": 572813 },
+    "data": {
+      "name": "בית המשפט המחוזי - באר שבע",
+      "type": "בתי המשפט המחוזיים",
+      "city": "באר שבע",
+      "address": "רחוב התקווה 5, באר שבע",
+      "info_center": "077-2703333",
+      "info_url": "https://www.gov.il/he/departments/bureaus/district_courts_reception_of_the_public_beer_sheva"
+    }
+  },
+  {
+    "id": 23,
+    "coords": { "x": 180850, "y": 572813 },
+    "data": {
+      "name": "בית המשפט לנוער - באר שבע",
+      "type": "בתי משפט לנוער",
+      "city": "באר שבע",
+      "address": "רחוב התקווה 5, באר שבע",
+      "info_center": "077-2703333",
+      "info_url": "https://www.gov.il/he/departments/bureaus/juvenile_courts_reception_of_the_public_beer_sheva"
+    }
+  },
+  {
+    "id": 24,
+    "coords": { "x": 180850, "y": 572813 },
+    "data": {
+      "name": "בית המשפט לענייני משפחה - באר שבע",
+      "type": "בתי המשפט לענייני משפחה",
+      "city": "באר שבע",
+      "address": "רחוב התקווה 5, באר שבע",
+      "info_center": "077-2703333",
+      "info_url": "https://www.gov.il/he/departments/bureaus/family_courts_reception_of_the_public_beer_sheva"
+    }
+  },
+  {
+    "id": 25,
+    "coords": { "x": 180850, "y": 572813 },
+    "data": {
+      "name": "בית המשפט לעניינים מקומיים - באר שבע",
+      "type": "בתי המשפט לעניינים מקומיים",
+      "city": "באר שבע",
+      "address": "רחוב התקווה 5, באר שבע",
+      "info_center": "077-2703333",
+      "info_url": "https://www.gov.il/he/departments/bureaus/local_affairs_court_reception_of_the_public_beer_sheva"
+    }
+  },
+  {
+    "id": 26,
+    "coords": { "x": 180850, "y": 572813 },
+    "data": {
+      "name": "בית המשפט לתביעות קטנות - באר שבע",
+      "type": "בתי המשפט לתביעות קטנות",
+      "city": "באר שבע",
+      "address": "רחוב התקווה 5, באר שבע",
+      "info_center": "077-2703333",
+      "info_url": "https://www.gov.il/he/departments/bureaus/courts_reception_of_the_public_beer_sheva"
+    }
+  },
+  {
+    "id": 27,
+    "coords": { "x": 180850, "y": 572813 },
+    "data": {
+      "name": "בית המשפט לתעבורה - באר שבע",
+      "type": "בתי המשפט לתעבורה",
+      "city": "באר שבע",
+      "address": "רחוב התקווה 5, באר שבע",
+      "info_center": "077-2703333",
+      "info_url": "https://www.gov.il/he/departments/bureaus/traffic_courts_reception_of_the_public_beer_sheva"
+    }
+  },
+  {
+    "id": 28,
+    "coords": { "x": 180850, "y": 572813 },
+    "data": {
+      "name": "בית משפט השלום - מחוז דרום - באר שבע",
+      "type": "בתי משפט השלום",
+      "city": "באר שבע",
+      "address": "רחוב התקווה 5, באר שבע",
+      "info_center": "077-2703333",
+      "info_url": "https://www.gov.il/he/departments/bureaus/magistrates_courts_reception_of_the_public_beer_sheva"
+    }
+  },
+  {
+    "id": 29,
+    "coords": { "x": 246628, "y": 712057 },
+    "data": {
+      "name": "בית משפט השלום - מחוז צפון - בית שאן",
+      "type": "בתי משפט השלום",
+      "city": "בית שאן",
+      "address": "רחוב שאול המלך 31, בית שאן",
+      "info_center": "077-2703333",
+      "info_url": "https://www.gov.il/he/departments/bureaus/magistrates_courts_reception_of_the_public_bet_shean"
+    }
+  },
+  {
+    "id": 30,
+    "coords": { "x": 246628, "y": 712057 },
+    "data": {
+      "name": "בית המשפט לתביעות קטנות - בית שאן",
+      "type": "בתי המשפט לתביעות קטנות",
+      "city": "בית שאן",
+      "address": "רחוב שאול המלך 31, בית שאן",
+      "info_center": "077-2703333",
+      "info_url": "https://www.gov.il/he/departments/bureaus/courts_reception_of_the_public_bet_shean"
+    }
+  },
+  {
+    "id": 31,
+    "coords": { "x": 198822, "y": 628525 },
+    "data": {
+      "name": "בית המשפט לענייני משפחה - בית שמש",
+      "type": "בתי המשפט לענייני משפחה",
+      "city": "בית שמש",
+      "address": "רחוב הרצל 9, בית שמש",
+      "info_center": "077-2703333",
+      "info_url": "https://www.gov.il/he/departments/bureaus/family_courts_reception_of_the_public_beit_shemesh"
+    }
+  },
+  {
+    "id": 32,
+    "coords": { "x": 198822, "y": 628525 },
+    "data": {
+      "name": "בית המשפט לתביעות קטנות - בית שמש",
+      "type": "בתי המשפט לתביעות קטנות",
+      "city": "בית שמש",
+      "address": "רחוב הרצל 9, בית שמש",
+      "info_center": "077-2703333",
+      "info_url": "https://www.gov.il/he/departments/bureaus/courts_reception_of_the_public_bet_shemesh"
+    }
+  },
+  {
+    "id": 33,
+    "coords": { "x": 198822, "y": 628525 },
+    "data": {
+      "name": "בית משפט השלום - מחוז ירושלים - בית שמש",
+      "type": "בתי משפט השלום",
+      "city": "בית שמש",
+      "address": "רחוב הרצל 9, בית שמש",
+      "info_center": "077-2703333",
+      "info_url": "https://www.gov.il/he/departments/bureaus/magistrates_courts_reception_of_the_public_bet_shemesh"
+    }
+  },
+  {
+    "id": 34,
+    "coords": { "x": 183746, "y": 667169 },
+    "data": {
+      "name": "בית המשפט לעניינים מקומיים - בני ברק",
+      "type": "בתי המשפט לעניינים מקומיים",
+      "city": "בני ברק",
+      "address": "רחוב ברוך הירש 14, בני ברק",
+      "info_center": "077-2703333",
+      "info_url": "https://www.gov.il/he/departments/bureaus/local_affairs_court_reception_of_the_public_bnei_brak"
+    }
+  },
+  {
+    "id": 36,
+    "coords": { "x": 182026, "y": 665085 },
+    "data": {
+      "name": "בית המשפט לעניינים מקומיים - גבעתיים",
+      "type": "בתי המשפט לעניינים מקומיים",
+      "city": "גבעתיים",
+      "address": "רחוב המעורר 11, גבעתיים",
+      "info_center": "077-2703333",
+      "info_url": "https://www.gov.il/he/departments/bureaus/local_affairs_court_reception_of_the_public_givatayim"
+    }
+  },
+  {
+    "id": 37,
+    "coords": { "x": 203322, "y": 553015 },
+    "data": {
+      "name": "בית המשפט לנוער - דימונה",
+      "type": "בתי משפט לנוער",
+      "city": "דימונה",
+      "address": "שדרות בן-גוריון 1, דימונה",
+      "info_center": "077-2703333",
+      "info_url": "https://www.gov.il/he/departments/bureaus/juvenile_courts_reception_of_the_public_dimona"
+    }
+  },
+  {
+    "id": 38,
+    "coords": { "x": 203322, "y": 553015 },
+    "data": {
+      "name": "בית המשפט לתביעות קטנות - דימונה",
+      "type": "בתי המשפט לתביעות קטנות",
+      "city": "דימונה",
+      "address": "שדרות בן-גוריון 1, דימונה",
+      "info_center": "077-2703333",
+      "info_url": "https://www.gov.il/he/departments/bureaus/courts_reception_of_the_public_dimona"
+    }
+  },
+  {
+    "id": 39,
+    "coords": { "x": 203322, "y": 553015 },
+    "data": {
+      "name": "בית משפט השלום - מחוז דרום - דימונה",
+      "type": "בתי משפט השלום",
+      "city": "דימונה",
+      "address": "שדרות בן-גוריון 1, דימונה",
+      "info_center": "077-2703333",
+      "info_url": "https://www.gov.il/he/departments/bureaus/magistrates_courts_reception_of_the_public_dimona"
+    }
+  },
+  {
+    "id": 40,
+    "coords": { "x": 185407, "y": 674330 },
+    "data": {
+      "name": "בית המשפט לעניינים מקומיים - הרצליה ורמת השרון",
+      "type": "בתי המשפט לעניינים מקומיים",
+      "city": "הרצליה",
+      "address": "רחוב בן גוריון 31, הרצליה",
+      "info_center": "077-2703333",
+      "info_url": "https://www.gov.il/he/departments/bureaus/local_affairs_court_reception_of_the_public_herzliya"
+    }
+  },
+  {
+    "id": 41,
+    "coords": { "x": 185407, "y": 674330 },
+    "data": {
+      "name": "בית המשפט לתביעות קטנות - הרצליה",
+      "type": "בתי המשפט לתביעות קטנות",
+      "city": "הרצליה",
+      "address": "רחוב בן גוריון 31, הרצליה",
+      "info_center": "077-2703333",
+      "info_url": "https://www.gov.il/he/departments/bureaus/courts_reception_of_the_public_herzliya"
+    }
+  },
+  {
+    "id": 42,
+    "coords": { "x": 185407, "y": 674330 },
+    "data": {
+      "name": "בית משפט השלום - מחוז תל אביב - הרצליה",
+      "type": "בתי משפט השלום",
+      "city": "הרצליה",
+      "address": "רחוב בן גוריון 31, הרצליה",
+      "info_center": "077-2703333",
+      "info_url": "https://www.gov.il/he/departments/bureaus/magistrates_courts_reception_of_the_public_herzliya"
+    }
+  },
+  {
+    "id": 43,
+    "coords": { "x": 192323, "y": 704559 },
+    "data": {
+      "name": "בית המשפט לנוער - חדרה",
+      "type": "בתי משפט לנוער",
+      "city": "חדרה",
+      "address": "רחוב הלל יפה 7א, חדרה",
+      "info_center": "077-2703333",
+      "info_url": "https://www.gov.il/he/departments/bureaus/juvenile_courts_reception_of_the_public_hadera"
+    }
+  },
+  {
+    "id": 44,
+    "coords": { "x": 192323, "y": 704559 },
+    "data": {
+      "name": "בית המשפט לענייני משפחה - חדרה",
+      "type": "בתי המשפט לענייני משפחה",
+      "city": "חדרה",
+      "address": "רחוב הלל יפה 7א, חדרה",
+      "info_center": "077-2703333",
+      "info_url": "https://www.gov.il/he/departments/bureaus/family_courts_reception_of_the_public_hadera"
+    }
+  },
+  {
+    "id": 45,
+    "coords": { "x": 192037, "y": 704964 },
+    "data": {
+      "name": "בית המשפט לעניינים מקומיים - חדרה",
+      "type": "בתי המשפט לעניינים מקומיים",
+      "city": "חדרה",
+      "address": "רחוב הרברט סמואל 17, חדרה",
+      "info_center": "077-2703333",
+      "info_url": "https://www.gov.il/he/departments/bureaus/local_affairs_court_reception_of_the_public_hadera"
+    }
+  },
+  {
+    "id": 46,
+    "coords": { "x": 192323, "y": 704559 },
+    "data": {
+      "name": "בית המשפט לתביעות קטנות - חדרה",
+      "type": "בתי המשפט לתביעות קטנות",
+      "city": "חדרה",
+      "address": "רחוב הלל יפה 7א, חדרה",
+      "info_center": "077-2703333",
+      "info_url": "https://www.gov.il/he/departments/bureaus/courts_reception_of_the_public_hadera"
+    }
+  },
+  {
+    "id": 47,
+    "coords": { "x": 192323, "y": 704559 },
+    "data": {
+      "name": "בית המשפט לתעבורה - חדרה",
+      "type": "בתי המשפט לתעבורה",
+      "city": "חדרה",
+      "address": "רחוב הלל יפה 7א, חדרה",
+      "info_center": "077-2703333",
+      "info_url": "https://www.gov.il/he/departments/bureaus/traffic_courts_reception_of_the_public_hadera"
+    }
+  },
+  {
+    "id": 48,
+    "coords": { "x": 192323, "y": 704559 },
+    "data": {
+      "name": "בית משפט השלום - מחוז חיפה - חדרה",
+      "type": "בתי משפט השלום",
+      "city": "חדרה",
+      "address": "רחוב הלל יפה 7א, חדרה",
+      "info_center": "077-2703333",
+      "info_url": "https://www.gov.il/he/departments/bureaus/magistrates_courts_reception_of_the_public_hadera"
+    }
+  },
+  {
+    "id": 49,
+    "coords": { "x": 179131, "y": 659153 },
+    "data": {
+      "name": "בית המשפט לעניינים מקומיים - חולון",
+      "type": "בתי המשפט לעניינים מקומיים",
+      "city": "חולון",
+      "address": "רחוב הנוטרים 3, חולון",
+      "info_center": "077-2703333",
+      "info_url": "https://www.gov.il/he/departments/bureaus/local_affairs_court_reception_of_the_public_holon"
+    }
+  },
+  {
+    "id": 50,
+    "coords": { "x": 200479, "y": 746625 },
+    "data": {
+      "name": "בית המשפט המחוזי - חיפה",
+      "type": "בתי המשפט המחוזיים",
+      "city": "חיפה",
+      "address": "שדרות הפלי\"ם 12, חיפה",
+      "info_center": "077-2703333",
+      "info_url": "https://www.gov.il/he/departments/bureaus/district_courts_reception_of_the_public_haifa"
+    }
+  },
+  {
+    "id": 51,
+    "coords": { "x": 200479, "y": 746625 },
+    "data": {
+      "name": "ביץ המשפט לנוער - חיפה",
+      "type": "בתי משפט לנוער",
+      "city": "חיפה",
+      "address": "שדרות הפלי\"ם 12, חיפה",
+      "info_center": "077-2703333",
+      "info_url": "https://www.gov.il/he/departments/bureaus/juvenile_courts_reception_of_the_public_haifa"
+    }
+  },
+  {
+    "id": 52,
+    "coords": { "x": 200479, "y": 746625 },
+    "data": {
+      "name": "בית המשפט לענייני משפחה - חיפה",
+      "type": "בתי המשפט לענייני משפחה",
+      "city": "חיפה",
+      "address": "שדרות הפלי\"ם 12, חיפה",
+      "info_center": "077-2703333",
+      "info_url": "https://www.gov.il/he/departments/bureaus/family_courts_reception_of_the_public_haifa"
+    }
+  },
+  {
+    "id": 53,
+    "coords": { "x": 200598, "y": 746542 },
+    "data": {
+      "name": "בית המשפט לעניינים מקומיים - חיפה",
+      "type": "בתי המשפט לעניינים מקומיים",
+      "city": "חיפה",
+      "address": "שדרות הפלי\"ם 16, חיפה",
+      "info_center": "077-2703333",
+      "info_url": "https://www.gov.il/he/departments/bureaus/local_affairs_court_reception_of_the_public_haifa"
+    }
+  },
+  {
+    "id": 54,
+    "coords": { "x": 200479, "y": 746625 },
+    "data": {
+      "name": "בית המשפט לתביעות קטנות - חיפה",
+      "type": "בתי המשפט לתביעות קטנות",
+      "city": "חיפה",
+      "address": "שדרות הפלי\"ם 12, חיפה",
+      "info_center": "077-2703333",
+      "info_url": "https://www.gov.il/he/departments/bureaus/courts_reception_of_the_public_haifa"
+    }
+  },
+  {
+    "id": 55,
+    "coords": { "x": 200479, "y": 746625 },
+    "data": {
+      "name": "בית המשפט לתעבורה - חיפה",
+      "type": "בתי המשפט לתעבורה",
+      "city": "חיפה",
+      "address": "שדרות הפלי\"ם 12, חיפה",
+      "info_center": "077-2703333",
+      "info_url": "https://www.gov.il/he/departments/bureaus/traffic_courts_reception_of_the_public_haifa"
+    }
+  },
+  {
+    "id": 56,
+    "coords": { "x": 200479, "y": 746625 },
+    "data": {
+      "name": "בית משפט השלום - מחוז חיפה - חיפה",
+      "type": "בתי משפט השלום",
+      "city": "חיפה",
+      "address": "שדרות הפלי\"ם 12, חיפה",
+      "info_center": "077-2703333",
+      "info_url": "https://www.gov.il/he/departments/bureaus/magistrates_courts_reception_of_the_public_haifa"
+    }
+  },
+  {
+    "id": 61,
+    "coords": { "x": 222040, "y": 632433 },
+    "data": {
+      "name": "בית המשפט המחוזי - ירושלים",
+      "type": "בתי המשפט המחוזיים",
+      "city": "ירושלים",
+      "address": "רחוב סלאח א-דין 40, ירושלים",
+      "info_center": "077-2703333",
+      "info_url": "https://www.gov.il/he/departments/bureaus/district_courts_reception_of_the_public_jerusalem"
+    }
+  },
+  {
+    "id": 62,
+    "coords": { "x": 219411, "y": 632052 },
+    "data": {
+      "name": "בית המשפט העליון",
+      "type": "בית המשפט העליון",
+      "city": "ירושלים",
+      "address": "רחוב שערי משפט 1, קריית בן-גוריון ירושלים",
+      "info_center": "077-2703333",
+      "info_url": "https://www.gov.il/he/departments/bureaus/supreme_court_reception_of_the_public"
+    }
+  },
+  {
+    "id": 63,
+    "coords": { "x": 221094, "y": 632060 },
+    "data": {
+      "name": "בית המשפט לנוער - ירושלים",
+      "type": "בתי משפט לנוער",
+      "city": "ירושלים",
+      "address": "רחוב חשין 6, ירושלים",
+      "info_center": "077-2703333",
+      "info_url": "https://www.gov.il/he/departments/bureaus/juvenile_courts_reception_of_the_public_jerusalem"
+    }
+  },
+  {
+    "id": 64,
+    "coords": { "x": 217941, "y": 632656 },
+    "data": {
+      "name": "בית המשפט לענייני משפחה - ירושלים",
+      "type": "בתי המשפט לענייני משפחה",
+      "city": "ירושלים",
+      "address": "רחוב בית הדפוס 12, ירושלים",
+      "info_center": "077-2703333",
+      "info_url": "https://www.gov.il/he/departments/bureaus/family_courts_reception_of_the_public_jerusalem"
+    }
+  },
+  {
+    "id": 65,
+    "coords": { "x": 221388, "y": 631937 },
+    "data": {
+      "name": "בית המשפט לעניינים מקומיים - ירושלים",
+      "type": "בתי המשפט לעניינים מקומיים",
+      "city": "ירושלים",
+      "address": "רחוב שבטי ישראל 7, ירושלים",
+      "info_center": "077-2703333",
+      "info_url": "https://www.gov.il/he/departments/bureaus/local_affairs_court_reception_of_the_public_jerusalem"
+    }
+  },
+  {
+    "id": 66,
+    "coords": { "x": 221094, "y": 632060 },
+    "data": {
+      "name": "בית המשפט לתביעות קטנות - ירושלים",
+      "type": "בתי המשפט לתביעות קטנות",
+      "city": "ירושלים",
+      "address": "רחוב חשין 6, ירושלים",
+      "info_center": "077-2703333",
+      "info_url": "https://www.gov.il/he/departments/bureaus/courts_reception_of_the_public_jerusalem"
+    }
+  },
+  {
+    "id": 67,
+    "coords": { "x": 217941, "y": 632656 },
+    "data": {
+      "name": "בית המשפט לתעבורה - ירושלים",
+      "type": "בתי המשפט לתעבורה",
+      "city": "ירושלים",
+      "address": "רחוב בית הדפוס 12, ירושלים",
+      "info_center": "077-2703333",
+      "info_url": "https://www.gov.il/he/departments/bureaus/traffic_courts_reception_of_the_public_jerusalem"
+    }
+  },
+  {
+    "id": 68,
+    "coords": { "x": 221094, "y": 632060 },
+    "data": {
+      "name": "בית משפט השלום - מחוז ירושלים - ירושלים",
+      "type": "בתי משפט השלום",
+      "city": "ירושלים",
+      "address": "רחוב חשין 6, ירושלים",
+      "info_center": "077-2703333",
+      "info_url": "https://www.gov.il/he/departments/bureaus/magistrates_courts_reception_of_the_public_jerusalem"
+    }
+  },
+  {
+    "id": 69,
+    "coords": { "x": 190078, "y": 675926 },
+    "data": {
+      "name": "בית המשפט לעניינים מקומיים - כפר סבא",
+      "type": "בתי המשפט לעניינים מקומיים",
+      "city": "כפר-סבא",
+      "address": "רחוב טשרניחובסקי 14, כפר סבא",
+      "info_center": "077-2703333",
+      "info_url": "https://www.gov.il/he/departments/bureaus/local_affairs_court_reception_of_the_public_kfar-saba"
+    }
+  },
+  {
+    "id": 70,
+    "coords": { "x": 189904, "y": 675551 },
+    "data": {
+      "name": "בית המשפט לתביעות קטנות - כפר סבא",
+      "type": "בתי המשפט לתביעות קטנות",
+      "city": "כפר-סבא",
+      "address": "רחוב הטחנה 5, כפר סבא",
+      "info_center": "077-2703333",
+      "info_url": "https://www.gov.il/he/departments/bureaus/courts_reception_of_the_public_kfar_saba"
+    }
+  },
+  {
+    "id": 71,
+    "coords": { "x": 189904, "y": 675551 },
+    "data": {
+      "name": "בית משפט השלום - מחוז מרכז - כפר סבא",
+      "type": "בתי משפט השלום",
+      "city": "כפר-סבא",
+      "address": "רחוב הטחנה 5, כפר סבא",
+      "info_center": "077-2703333",
+      "info_url": "https://www.gov.il/he/departments/bureaus/magistrates_courts_reception_of_the_public_kfar_saba"
+    }
+  },
+  {
+    "id": 73,
+    "coords": { "x": 189904, "y": 650349 },
+    "data": {
+      "name": "בית המשפט המחוזי - מרכז לוד",
+      "type": "בתי המשפט המחוזיים",
+      "city": "לוד",
+      "address": "שדרות הציונות 3, לוד",
+      "info_center": "077-2703333",
+      "info_url": "https://www.gov.il/he/departments/bureaus/district_courts_reception_of_the_public_lod"
+    }
+  },
+  {
+    "id": 76,
+    "coords": { "x": 229659, "y": 631693 },
+    "data": {
+      "name": "בית המשפט לעניינים מקומיים - מעלה אדומים",
+      "type": "בתי המשפט לעניינים מקומיים",
+      "city": "מעלה אדומים",
+      "address": "רחוב הצורן 2, מעלה אדומים",
+      "info_center": "077-2703333",
+      "info_url": "https://www.gov.il/he/departments/bureaus/local_affairs_court_reception_of_the_public_maale_adummim"
+    }
+  },
+  {
+    "id": 77,
+    "coords": { "x": 229289, "y": 733992 },
+    "data": {
+      "name": "בית המשפט המחוזי - נצרת",
+      "type": "בתי המשפט המחוזיים",
+      "city": "נוף הגליל",
+      "address": "כיכר קריית יצחק רבין, היכל המשפט החדש, נוף הגליל",
+      "info_center": "077-2703333",
+      "info_url": "https://www.gov.il/he/departments/bureaus/district_courts_reception_of_the_public_nazareth_illit"
+    }
+  },
+  {
+    "id": 78,
+    "coords": { "x": 229289, "y": 733992 },
+    "data": {
+      "name": "בית המשפט לנוער - נצרת",
+      "type": "בתי משפט לנוער",
+      "city": "נוף הגליל",
+      "address": "כיכר קריית יצחק רבין, היכל המשפט החדש, נוף הגליל",
+      "info_center": "077-2703333",
+      "info_url": "https://www.gov.il/he/departments/bureaus/juvenile_courts_reception_of_the_public_nazareth_illit"
+    }
+  },
+  {
+    "id": 79,
+    "coords": { "x": 229289, "y": 733992 },
+    "data": {
+      "name": "בית המשפט לענייני משפחה - נצרת",
+      "type": "בתי המשפט לענייני משפחה",
+      "city": "נוף הגליל",
+      "address": "כיכר קריית יצחק רבין, היכל המשפט החדש, נוף הגליל",
+      "info_center": "077-2703333",
+      "info_url": "https://www.gov.il/he/departments/bureaus/family_courts_reception_of_the_public_nazareth_illit"
+    }
+  },
+  {
+    "id": 80,
+    "coords": { "x": 229289, "y": 733992 },
+    "data": {
+      "name": "בית המשפט לתביעות קטנות - נצרת",
+      "type": "בתי המשפט לתביעות קטנות",
+      "city": "נוף הגליל",
+      "address": "כיכר קריית יצחק רבין, היכל המשפט החדש, נוף הגליל",
+      "info_center": "077-2703333",
+      "info_url": "https://www.gov.il/he/departments/bureaus/courts_reception_of_the_public_nazareth_illit"
+    }
+  },
+  {
+    "id": 81,
+    "coords": { "x": 229289, "y": 733992 },
+    "data": {
+      "name": "בית המשפט לתעבורה - נצרת",
+      "type": "בתי המשפט לתעבורה",
+      "city": "נוף הגליל",
+      "address": "כיכר קריית יצחק רבין, היכל המשפט החדש, נוף הגליל",
+      "info_center": "077-2703333",
+      "info_url": "https://www.gov.il/he/departments/bureaus/traffic_courts_reception_of_the_public_nazareth_illit"
+    }
+  },
+  {
+    "id": 82,
+    "coords": { "x": 229289, "y": 733992 },
+    "data": {
+      "name": "בית משפט השלום - מחוז צפון - נצרת",
+      "type": "בתי משפט השלום",
+      "city": "נוף הגליל",
+      "address": "כיכר קריית יצחק רבין, היכל המשפט החדש, נוף הגליל",
+      "info_center": "077-2703333",
+      "info_url": "https://www.gov.il/he/departments/bureaus/magistrates_courts_reception_of_the_public_nazareth_illit"
+    }
+  },
+  {
+    "id": 83,
+    "coords": { "x": 187205, "y": 692668 },
+    "data": {
+      "name": "בית המשפט לנוער - נתניה",
+      "type": "בתי משפט לנוער",
+      "city": "נתניה",
+      "address": "רחוב הרצל 57, נתניה",
+      "info_center": "077-2703333",
+      "info_url": "https://www.gov.il/he/departments/bureaus/juvenile_courts_reception_of_the_public_netanya"
+    }
+  },
+  {
+    "id": 84,
+    "coords": { "x": 187205, "y": 692668 },
+    "data": {
+      "name": "בית המשפט לעניינים מקומיים - נתניה",
+      "type": "בתי המשפט לעניינים מקומיים",
+      "city": "נתניה",
+      "address": "רחוב הרצל 57, נתניה",
+      "info_center": "077-2703333",
+      "info_url": "https://www.gov.il/he/departments/bureaus/local_affairs_court_reception_of_the_public_netanya"
+    }
+  },
+  {
+    "id": 85,
+    "coords": { "x": 187205, "y": 692668 },
+    "data": {
+      "name": "בית המשפט לתביעות קטנות - נתניה",
+      "type": "בתי המשפט לתביעות קטנות",
+      "city": "נתניה",
+      "address": "רחוב הרצל 57, נתניה",
+      "info_center": "077-2703333",
+      "info_url": "https://www.gov.il/he/departments/bureaus/courts_reception_of_the_public_netanya"
+    }
+  },
+  {
+    "id": 86,
+    "coords": { "x": 187205, "y": 692668 },
+    "data": {
+      "name": "בית משפט השלום - מחוז מרכז - נתניה",
+      "type": "בתי משפט השלום",
+      "city": "נתניה",
+      "address": "רחוב הרצל 57, נתניה",
+      "info_center": "077-2703333",
+      "info_url": "https://www.gov.il/he/departments/bureaus/magistrates_courts_reception_of_the_public_netanya"
+    }
+  },
+  {
+    "id": 87,
+    "coords": { "x": 207439, "y": 758889 },
+    "data": {
+      "name": "בית המשפט לתביעות קטנות - עכו",
+      "type": "בתי המשפט לתביעות קטנות",
+      "city": "עכו",
+      "address": "רחוב יהושפט 15, עכו",
+      "info_center": "077-2703333",
+      "info_url": "https://www.gov.il/he/departments/bureaus/courts_reception_of_the_public_akko"
+    }
+  },
+  {
+    "id": 88,
+    "coords": { "x": 207439, "y": 758889 },
+    "data": {
+      "name": "בית המשפט לתעבורה - עכו",
+      "type": "בתי המשפט לתעבורה",
+      "city": "עכו",
+      "address": "רחוב יהושפט 15, עכו",
+      "info_center": "077-2703333",
+      "info_url": "https://www.gov.il/he/departments/bureaus/traffic_courts_reception_of_the_public_akko"
+    }
+  },
+  {
+    "id": 89,
+    "coords": { "x": 207439, "y": 758889 },
+    "data": {
+      "name": "בית משפט השלום - מחוז חיפה - עכו",
+      "type": "בתי משפט השלום",
+      "city": "עכו",
+      "address": "רחוב יהושפט 15, עכו",
+      "info_center": "077-2703333",
+      "info_url": "https://www.gov.il/he/departments/bureaus/magistrates_courts_reception_of_the_public_akko"
+    }
+  },
+  {
+    "id": 90,
+    "coords": { "x": 227138, "y": 723851 },
+    "data": {
+      "name": "בית המשפט לתביעות קטנות - עפולה",
+      "type": "בתי המשפט לתביעות קטנות",
+      "city": "עפולה",
+      "address": "רחוב מנחם אוסישקין 42, עפולה",
+      "info_center": "077-2703333",
+      "info_url": "https://www.gov.il/he/departments/bureaus/courts_reception_of_the_public_afula"
+    }
+  },
+  {
+    "id": 91,
+    "coords": { "x": 227138, "y": 723851 },
+    "data": {
+      "name": "בית משפט השלום - מחוז צפון - עפולה",
+      "type": "בתי משפט השלום",
+      "city": "עפולה",
+      "address": "רחוב מנחם אוסישקין 42, עפולה",
+      "info_center": "077-2703333",
+      "info_url": "https://www.gov.il/he/departments/bureaus/magistrates_courts_reception_of_the_public_afula"
+    }
+  },
+  {
+    "id": 92,
+    "coords": { "x": 187536, "y": 666832 },
+    "data": {
+      "name": "בית המשפט לנוער - פתח תקווה",
+      "type": "בתי משפט לנוער",
+      "city": "פתח תקווה",
+      "address": "רחוב בזל 1, פתח תקווה",
+      "info_center": "077-2703333",
+      "info_url": "https://www.gov.il/he/departments/bureaus/juvenile_courts_reception_of_the_public_petah_tikva"
+    }
+  },
+  {
+    "id": 93,
+    "coords": { "x": 187536, "y": 666832 },
+    "data": {
+      "name": "בית המשפט לענייני משפחה - פתח תקווה",
+      "type": "בתי המשפט לענייני משפחה",
+      "city": "פתח תקווה",
+      "address": "רחוב בזל 1, פתח תקווה",
+      "info_center": "077-2703333",
+      "info_url": "https://www.gov.il/he/departments/bureaus/family_courts_reception_of_the_public_petah_tikva"
+    }
+  },
+  {
+    "id": 94,
+    "coords": { "x": 187536, "y": 666832 },
+    "data": {
+      "name": "בית המשפט לעניינים מקומיים - פתח תקווה",
+      "type": "בתי המשפט לעניינים מקומיים",
+      "city": "פתח תקווה",
+      "address": "רחוב בזל 1, פתח תקווה",
+      "info_center": "077-2703333",
+      "info_url": "https://www.gov.il/he/departments/bureaus/local_affairs_court_reception_of_the_public_maale_petah_tikva"
+    }
+  },
+  {
+    "id": 95,
+    "coords": { "x": 187536, "y": 666832 },
+    "data": {
+      "name": "בית המשפט לתביעות קטנות - פתח תקווה",
+      "type": "בתי המשפט לתביעות קטנות",
+      "city": "פתח תקווה",
+      "address": "רחוב בזל 1, פתח תקווה",
+      "info_center": "077-2703333",
+      "info_url": "https://www.gov.il/he/departments/bureaus/courts_reception_of_the_public_petah_tikva"
+    }
+  },
+  {
+    "id": 96,
+    "coords": { "x": 189674, "y": 666056 },
+    "data": {
+      "name": "בית המשפט לתעבורה - מחוז מרכז - פתח תקווה",
+      "type": "בתי המשפט לתעבורה",
+      "city": "פתח תקווה",
+      "address": "רחוב הס 20, פתח תקווה",
+      "info_center": "077-2703333",
+      "info_url": "https://www.gov.il/he/departments/bureaus/traffic_courts_reception_of_the_public_petah_tikva"
+    }
+  },
+  {
+    "id": 97,
+    "coords": { "x": 187536, "y": 666832 },
+    "data": {
+      "name": "בית משפט השלום - מחוז מרכז - פתח תקווה",
+      "type": "בתי משפט השלום",
+      "city": "פתח תקווה",
+      "address": "רחוב בזל 1, פתח תקווה",
+      "info_center": "077-2703333",
+      "info_url": "https://www.gov.il/he/departments/bureaus/magistrates_courts_reception_of_the_public_petah_tikva"
+    }
+  },
+  {
+    "id": 105,
+    "coords": { "x": 211361, "y": 604139 },
+    "data": {
+      "name": "בית המשפט לעניינים מקומיים - קריית ארבע וחברון",
+      "type": "בתי המשפט לעניינים מקומיים",
+      "city": "קריית ארבע",
+      "address": "בניין המועצה המקומית, קריית ארבע",
+      "info_center": "077-2703333",
+      "info_url": "https://www.gov.il/he/departments/bureaus/local_affairs_court_reception_of_the_public_kiryat_arba"
+    }
+  },
+  {
+    "id": 106,
+    "coords": { "x": 208926, "y": 750177 },
+    "data": {
+      "name": "בית המשפט לענייני משפחה - קריות",
+      "type": "בתי המשפט לענייני משפחה",
+      "city": "קריית ביאליק",
+      "address": "דרך עכו 194, קריית ביאליק",
+      "info_center": "077-2703333",
+      "info_url": "https://www.gov.il/he/departments/bureaus/family_courts_reception_of_the_public_krayot"
+    }
+  },
+  {
+    "id": 107,
+    "coords": { "x": 208926, "y": 750177 },
+    "data": {
+      "name": "בית המשפט לעניינים מקומיים - קריות",
+      "type": "בתי המשפט לעניינים מקומיים",
+      "city": "קריית ביאליק",
+      "address": "דרך עכו 194, קריית ביאליק",
+      "info_center": "077-2703333",
+      "info_url": "https://www.gov.il/he/departments/bureaus/local_affairs_court_reception_of_the_public_krayot"
+    }
+  },
+  {
+    "id": 108,
+    "coords": { "x": 208926, "y": 750177 },
+    "data": {
+      "name": "בית משפט השלום - מחוז חיפה - קריות",
+      "type": "בתי משפט השלום",
+      "city": "קריית ביאליק",
+      "address": "דרך עכו 194, קריית ביאליק",
+      "info_center": "077-2703333",
+      "info_url": "https://www.gov.il/he/departments/bureaus/magistrates_courts_reception_of_the_public_krayot"
+    }
+  },
+  {
+    "id": 109,
+    "coords": { "x": 208926, "y": 750177 },
+    "data": {
+      "name": "בית המשפט לתביעות קטנות - קריות",
+      "type": "בתי המשפט לתביעות קטנות",
+      "city": "קריית ביאליק",
+      "address": "דרך עכו 194, קריית ביאליק",
+      "info_center": "077-2703333",
+      "info_url": "https://www.gov.il/he/departments/bureaus/courts_reception_of_the_public_krayot"
+    }
+  },
+  {
+    "id": 110,
+    "coords": { "x": 178899, "y": 612313 },
+    "data": {
+      "name": "בית המשפט לנוער - קריית גת",
+      "type": "בתי משפט לנוער",
+      "city": "קריית גת",
+      "address": "רחוב חשוון 12, קריית גת",
+      "info_center": "077-2703333",
+      "info_url": "https://www.gov.il/he/departments/bureaus/juvenile_courts_reception_of_the_public_qiryat_gat"
+    }
+  },
+  {
+    "id": 111,
+    "coords": { "x": 178899, "y": 612313 },
+    "data": {
+      "name": "בית המשפט לענייני משפחה - קריית גת",
+      "type": "בתי המשפט לענייני משפחה",
+      "city": "קריית גת",
+      "address": "רחוב חשוון 12, קריית גת",
+      "info_center": "077-2703333",
+      "info_url": "https://www.gov.il/he/departments/bureaus/family_courts_reception_of_the_public_qiryat_gat"
+    }
+  },
+  {
+    "id": 112,
+    "coords": { "x": 178899, "y": 612313 },
+    "data": {
+      "name": "בית המשפט לתביעות קטנות - קריית גת",
+      "type": "בתי המשפט לתביעות קטנות",
+      "city": "קריית גת",
+      "address": "רחוב חשוון 12, קריית גת",
+      "info_center": "077-2703333",
+      "info_url": "https://www.gov.il/he/departments/bureaus/courts_reception_of_the_public_qiryat_gat"
+    }
+  },
+  {
+    "id": 113,
+    "coords": { "x": 178899, "y": 612313 },
+    "data": {
+      "name": "בית משפט השלום - מחוז דרום - קריית גת",
+      "type": "בתי משפט השלום",
+      "city": "קריית גת",
+      "address": "רחוב חשוון 12, קריית גת",
+      "info_center": "077-2703333",
+      "info_url": "https://www.gov.il/he/departments/bureaus/magistrates_courts_reception_of_the_public_qiryat_gat"
+    }
+  },
+  {
+    "id": 118,
+    "coords": { "x": 179434, "y": 652984 },
+    "data": {
+      "name": "בית המשפט לנוער - ראשון לציון",
+      "type": "בתי משפט לנוער",
+      "city": "ראשון לציון",
+      "address": "רחוב ישראל גלילי 5, ראשון לציון",
+      "info_center": "077-2703333",
+      "info_url": "https://www.gov.il/he/departments/bureaus/juvenile_courts_reception_of_the_public_rishon_lezion"
+    }
+  },
+  {
+    "id": 119,
+    "coords": { "x": 179434, "y": 652984 },
+    "data": {
+      "name": "בית המשפט לענייני משפחה - ראשון לציון",
+      "type": "בתי המשפט לענייני משפחה",
+      "city": "ראשון לציון",
+      "address": "רחוב ישראל גלילי 5, ראשון לציון",
+      "info_center": "077-2703333",
+      "info_url": "https://www.gov.il/he/departments/bureaus/family_courts_reception_of_the_public_rishon_lezion"
+    }
+  },
+  {
+    "id": 120,
+    "coords": { "x": 179434, "y": 652984 },
+    "data": {
+      "name": "בית המשפט לעניינים מקומיים - ראשון-לציון",
+      "type": "בתי המשפט לעניינים מקומיים",
+      "city": "ראשון לציון",
+      "address": "רחוב ישראל גלילי 5, ראשון לציון",
+      "info_center": "077-2703333",
+      "info_url": "https://www.gov.il/he/departments/bureaus/local_affairs_court_reception_of_the_public_rishon_lezion"
+    }
+  },
+  {
+    "id": 121,
+    "coords": { "x": 179434, "y": 652984 },
+    "data": {
+      "name": "בית המשפט לתביעות קטנות - ראשון לציון",
+      "type": "בתי המשפט לתביעות קטנות",
+      "city": "ראשון לציון",
+      "address": "רחוב ישראל גלילי 5, ראשון לציון",
+      "info_center": "077-2703333",
+      "info_url": "https://www.gov.il/he/departments/bureaus/courts_reception_of_the_public_rishonlezion"
+    }
+  },
+  {
+    "id": 122,
+    "coords": { "x": 179434, "y": 652984 },
+    "data": {
+      "name": "בית משפט השלום - מחוז מרכז - ראשון לציון",
+      "type": "בתי משפט השלום",
+      "city": "ראשון לציון",
+      "address": "רחוב ישראל גלילי 5, ראשון לציון",
+      "info_center": "077-2703333",
+      "info_url": "https://www.gov.il/he/departments/bureaus/magistrates_courts_reception_of_the_public_rishon_lezion"
+    }
+  },
+  {
+    "id": 123,
+    "coords": { "x": 181510, "y": 644601 },
+    "data": {
+      "name": "בית המשפט לנוער - רחובות",
+      "type": "בתי משפט לנוער",
+      "city": "רחובות",
+      "address": "רחוב רוז'נסקי 9, רחובות",
+      "info_center": "077-2703333",
+      "info_url": "https://www.gov.il/he/departments/bureaus/juvenile_courts_reception_of_the_public_rehovot"
+    }
+  },
+  {
+    "id": 124,
+    "coords": { "x": 181510, "y": 644601 },
+    "data": {
+      "name": "בית המשפט לעניינים מקומיים - רחובות",
+      "type": "בתי המשפט לעניינים מקומיים",
+      "city": "רחובות",
+      "address": "רחוב רוז'נסקי 9, רחובות",
+      "info_center": "077-2703333",
+      "info_url": "https://www.gov.il/he/departments/bureaus/local_affairs_court_reception_of_the_public_rehovot"
+    }
+  },
+  {
+    "id": 125,
+    "coords": { "x": 181510, "y": 644601 },
+    "data": {
+      "name": "בית המשפט לתביעות קטנות - רחובות",
+      "type": "בתי המשפט לתביעות קטנות",
+      "city": "רחובות",
+      "address": "רחוב רוז'נסקי 9, רחובות",
+      "info_center": "077-2703333",
+      "info_url": "https://www.gov.il/he/departments/bureaus/courts_reception_of_the_public_rehovot"
+    }
+  },
+  {
+    "id": 126,
+    "coords": { "x": 181510, "y": 644601 },
+    "data": {
+      "name": "בית משפט השלום - מחוז מרכז - רחובות",
+      "type": "בתי משפט השלום",
+      "city": "רחובות",
+      "address": "רחוב רוז'נסקי 9, רחובות",
+      "info_center": "077-2703333",
+      "info_url": "https://www.gov.il/he/departments/bureaus/magistrates_courts_reception_of_the_public_rehovot"
+    }
+  },
+  {
+    "id": 127,
+    "coords": { "x": 187645, "y": 648690 },
+    "data": {
+      "name": "בית המשפט לנוער - רמלה",
+      "type": "בתי משפט לנוער",
+      "city": "רמלה",
+      "address": "שדרות ויצמן 3, רמלה",
+      "info_center": "077-2703333",
+      "info_url": "https://www.gov.il/he/departments/bureaus/juvenile_courts_reception_of_the_public_ramla"
+    }
+  },
+  {
+    "id": 128,
+    "coords": { "x": 187645, "y": 648690 },
+    "data": {
+      "name": "בית המשפט לתביעות קטנות - רמלה",
+      "type": "בתי המשפט לתביעות קטנות",
+      "city": "רמלה",
+      "address": "שדרות ויצמן 3, רמלה",
+      "info_center": "077-2703333",
+      "info_url": "https://www.gov.il/he/departments/bureaus/courts_reception_of_the_public_ramla"
+    }
+  },
+  {
+    "id": 129,
+    "coords": { "x": 187645, "y": 648690 },
+    "data": {
+      "name": "בית משפט השלום - מחוז מרכז - רמלה",
+      "type": "בתי משפט השלום",
+      "city": "רמלה",
+      "address": "שדרות ויצמן 3, רמלה",
+      "info_center": "077-2703333",
+      "info_url": "https://www.gov.il/he/departments/bureaus/magistrates_courts_reception_of_the_public_ramla"
+    }
+  },
+  {
+    "id": 130,
+    "coords": { "x": 183386, "y": 666546 },
+    "data": {
+      "name": "בית המשפט לעניינים מקומיים - רמת גן",
+      "type": "בתי המשפט לעניינים מקומיים",
+      "city": "רמת גן",
+      "address": "דרך דוד בן גוריון 38, רמת גן",
+      "info_center": "077-2703333",
+      "info_url": "https://www.gov.il/he/departments/bureaus/local_affairs_court_reception_of_the_public_ramat-gan"
+    }
+  },
+  {
+    "id": 321,
+    "coords": { "x": 176404, "y": 657133 },
+    "data": {
+      "name": "בית המשפט לעניינים מקומיים - בת ים",
+      "type": "בתי המשפט לעניינים מקומיים",
+      "city": "בת ים",
+      "address": "רחוב הרב יצחק ניסנבוים 7, בת ים",
+      "info_center": "077-2703333",
+      "info_url": "https://www.gov.il/he/departments/bureaus/local_affairs_court_reception_of_the_public_bat_yam"
+    }
+  },
+  {
+    "id": 323,
+    "coords": { "x": 176404, "y": 657133 },
+    "data": {
+      "name": "בית המשפט לתביעות קטנות - מחוז תל אביב - בת ים",
+      "type": "בתי המשפט לתביעות קטנות",
+      "city": "בת ים",
+      "address": "רחוב הרב יצחק ניסנבוים 7, בת ים",
+      "info_center": "077-2703333",
+      "info_url": "https://www.gov.il/he/departments/bureaus/courts_reception_of_the_public_bat_yam"
+    }
+  },
+  {
+    "id": 324,
+    "coords": { "x": 176404, "y": 657133 },
+    "data": {
+      "name": "בית משפט השלום - מחוז תל-אביב - בת ים",
+      "type": "בתי משפט השלום",
+      "city": "בת ים",
+      "address": "רחוב הרב יצחק ניסנבוים 7, בת ים",
+      "info_center": "077-2703333",
+      "info_url": "https://www.gov.il/he/departments/bureaus/magistrates_courts_reception_of_the_public_bat_yam"
+    }
+  },
+  {
+    "id": 641,
+    "coords": { "x": 176404, "y": 657133 },
+    "data": {
+      "name": "בית המשפט לנוער - מחוז תל אביב - בת ים",
+      "type": "בית המשפט לנוער",
+      "city": "בת ים",
+      "address": "רחוב הרב יצחק ניסנבוים 7, בת ים, היכל המשפט בת ים",
+      "info_center": "077-2703333",
+      "info_url": "https://www.gov.il/he/departments/bureaus/juvenile_courts_reception_of_the_public_bat_yam"
+    }
+  }
+]

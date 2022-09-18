@@ -1,0 +1,4815 @@
+{
+  "errorCode": 0,
+  "status": 0,
+  "message": null,
+  "data": [
+    {
+      "LayerName": "BATEI_MISHPAT",
+      "LayerCaption": "בתי המשפט",
+      "LayerCss": "",
+      "LayerType": 0,
+      "BubbleType": 0,
+      "FooterType": 1,
+      "disclaimer": null,
+      "Result": [
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם",
+                  "FieldValue": "בית המשפט לתביעות קטנות - אשקלון",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "סוג",
+                  "FieldValue": "בתי המשפט לתביעות קטנות",
+                  "FieldType": 1
+                },
+                { "FieldName": "ישוב", "FieldValue": "אשקלון", "FieldType": 1 },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "שדרות בן-גוריון 19, אשקלון",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "מרכז מידע",
+                  "FieldValue": "077-2703333",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "למידע נוסף על בית המשפט באתר",
+                  "FieldValue": "https://www.gov.il/he/departments/bureaus/courts_reception_of_the_public_ashkelon",
+                  "FieldType": 5
+                }
+              ]
+            }
+          ],
+          "objectId": 20,
+          "centroid": { "y": 619281.0, "x": 158710.0, "geometryType": "point" },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם",
+                  "FieldValue": "בית משפט השלום - מחוז דרום - אשקלון",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "סוג",
+                  "FieldValue": "בתי משפט השלום",
+                  "FieldType": 1
+                },
+                { "FieldName": "ישוב", "FieldValue": "אשקלון", "FieldType": 1 },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "שדרות בן-גוריון 19, אשקלון",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "מרכז מידע",
+                  "FieldValue": "077-2703333",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "למידע נוסף על בית המשפט באתר",
+                  "FieldValue": "https://www.gov.il/he/departments/bureaus/magistrates_courts_reception_of_the_public_ashkelon",
+                  "FieldType": 5
+                }
+              ]
+            }
+          ],
+          "objectId": 21,
+          "centroid": { "y": 619281.0, "x": 158710.0, "geometryType": "point" },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם",
+                  "FieldValue": "בית המשפט לענייני משפחה - קריית גת",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "סוג",
+                  "FieldValue": "בתי המשפט לענייני משפחה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "ישוב",
+                  "FieldValue": "קריית גת",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "רחוב חשוון 12, קריית גת",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "מרכז מידע",
+                  "FieldValue": "077-2703333",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "למידע נוסף על בית המשפט באתר",
+                  "FieldValue": "https://www.gov.il/he/departments/bureaus/family_courts_reception_of_the_public_qiryat_gat",
+                  "FieldType": 5
+                }
+              ]
+            }
+          ],
+          "objectId": 111,
+          "centroid": { "y": 612313.0, "x": 178899.0, "geometryType": "point" },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם",
+                  "FieldValue": "בית משפט השלום - מחוז דרום - קריית גת",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "סוג",
+                  "FieldValue": "בתי משפט השלום",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "ישוב",
+                  "FieldValue": "קריית גת",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "רחוב חשוון 12, קריית גת",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "מרכז מידע",
+                  "FieldValue": "077-2703333",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "למידע נוסף על בית המשפט באתר",
+                  "FieldValue": "https://www.gov.il/he/departments/bureaus/magistrates_courts_reception_of_the_public_qiryat_gat",
+                  "FieldType": 5
+                }
+              ]
+            }
+          ],
+          "objectId": 113,
+          "centroid": { "y": 612313.0, "x": 178899.0, "geometryType": "point" },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם",
+                  "FieldValue": "בית המשפט לתעבורה - מחוז תל אביב - בת ים",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "סוג",
+                  "FieldValue": "בתי המשפט לתעבורה",
+                  "FieldType": 1
+                },
+                { "FieldName": "ישוב", "FieldValue": "בת ים", "FieldType": 1 },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "רחוב הרב יצחק ניסנבוים 7, בת ים",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "מרכז מידע",
+                  "FieldValue": "077-2703333",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "למידע נוסף על בית המשפט באתר",
+                  "FieldValue": "https://www.gov.il/he/departments/bureaus/traffic_courts_reception_of_the_public_tel_aviv",
+                  "FieldType": 5
+                }
+              ]
+            }
+          ],
+          "objectId": 6,
+          "centroid": { "y": 657133.0, "x": 176404.0, "geometryType": "point" },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם",
+                  "FieldValue": "בית המשפט לנוער - ראשון לציון",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "סוג",
+                  "FieldValue": "בתי משפט לנוער",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "ישוב",
+                  "FieldValue": "ראשון לציון",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "רחוב ישראל גלילי 5, ראשון לציון",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "מרכז מידע",
+                  "FieldValue": "077-2703333",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "למידע נוסף על בית המשפט באתר",
+                  "FieldValue": "https://www.gov.il/he/departments/bureaus/juvenile_courts_reception_of_the_public_rishon_lezion",
+                  "FieldType": 5
+                }
+              ]
+            }
+          ],
+          "objectId": 118,
+          "centroid": { "y": 652984.0, "x": 179434.0, "geometryType": "point" },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם",
+                  "FieldValue": "בית המשפט לענייני משפחה - ראשון לציון",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "סוג",
+                  "FieldValue": "בתי המשפט לענייני משפחה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "ישוב",
+                  "FieldValue": "ראשון לציון",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "רחוב ישראל גלילי 5, ראשון לציון",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "מרכז מידע",
+                  "FieldValue": "077-2703333",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "למידע נוסף על בית המשפט באתר",
+                  "FieldValue": "https://www.gov.il/he/departments/bureaus/family_courts_reception_of_the_public_rishon_lezion",
+                  "FieldType": 5
+                }
+              ]
+            }
+          ],
+          "objectId": 119,
+          "centroid": { "y": 652984.0, "x": 179434.0, "geometryType": "point" },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם",
+                  "FieldValue": "בית המשפט לעניינים מקומיים - ראשון-לציון",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "סוג",
+                  "FieldValue": "בתי המשפט לעניינים מקומיים",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "ישוב",
+                  "FieldValue": "ראשון לציון",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "רחוב ישראל גלילי 5, ראשון לציון",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "מרכז מידע",
+                  "FieldValue": "077-2703333",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "למידע נוסף על בית המשפט באתר",
+                  "FieldValue": "https://www.gov.il/he/departments/bureaus/local_affairs_court_reception_of_the_public_rishon_lezion",
+                  "FieldType": 5
+                }
+              ]
+            }
+          ],
+          "objectId": 120,
+          "centroid": { "y": 652984.0, "x": 179434.0, "geometryType": "point" },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם",
+                  "FieldValue": "בית המשפט לתביעות קטנות - ראשון לציון",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "סוג",
+                  "FieldValue": "בתי המשפט לתביעות קטנות",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "ישוב",
+                  "FieldValue": "ראשון לציון",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "רחוב ישראל גלילי 5, ראשון לציון",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "מרכז מידע",
+                  "FieldValue": "077-2703333",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "למידע נוסף על בית המשפט באתר",
+                  "FieldValue": "https://www.gov.il/he/departments/bureaus/courts_reception_of_the_public_rishonlezion",
+                  "FieldType": 5
+                }
+              ]
+            }
+          ],
+          "objectId": 121,
+          "centroid": { "y": 652984.0, "x": 179434.0, "geometryType": "point" },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם",
+                  "FieldValue": "בית המשפט לתביעות קטנות - תל אביב",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "סוג",
+                  "FieldValue": "בתי המשפט לתביעות קטנות",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "ישוב",
+                  "FieldValue": "תל אביב-יפו",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "רחוב ויצמן 1, תל אביב-יפו",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "מרכז מידע",
+                  "FieldValue": "077-2703333",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "למידע נוסף על בית המשפט באתר",
+                  "FieldValue": "https://www.gov.il/he/departments/bureaus/courts_reception_of_the_public_tel_aviv",
+                  "FieldType": 5
+                }
+              ]
+            }
+          ],
+          "objectId": 4,
+          "centroid": { "y": 664985.0, "x": 180137.0, "geometryType": "point" },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם",
+                  "FieldValue": "בית המשפט לענייני משפחה - בית שמש",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "סוג",
+                  "FieldValue": "בתי המשפט לענייני משפחה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "ישוב",
+                  "FieldValue": "בית שמש",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "רחוב הרצל 9, בית שמש",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "מרכז מידע",
+                  "FieldValue": "077-2703333",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "למידע נוסף על בית המשפט באתר",
+                  "FieldValue": "https://www.gov.il/he/departments/bureaus/family_courts_reception_of_the_public_beit_shemesh",
+                  "FieldType": 5
+                }
+              ]
+            }
+          ],
+          "objectId": 31,
+          "centroid": { "y": 628525.0, "x": 198822.0, "geometryType": "point" },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם",
+                  "FieldValue": "בית המשפט לתביעות קטנות - רמלה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "סוג",
+                  "FieldValue": "בתי המשפט לתביעות קטנות",
+                  "FieldType": 1
+                },
+                { "FieldName": "ישוב", "FieldValue": "רמלה", "FieldType": 1 },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "שדרות ויצמן 3, רמלה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "מרכז מידע",
+                  "FieldValue": "077-2703333",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "למידע נוסף על בית המשפט באתר",
+                  "FieldValue": "https://www.gov.il/he/departments/bureaus/courts_reception_of_the_public_ramla",
+                  "FieldType": 5
+                }
+              ]
+            }
+          ],
+          "objectId": 128,
+          "centroid": { "y": 648690.0, "x": 187645.0, "geometryType": "point" },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם",
+                  "FieldValue": "בית המשפט לתעבורה - חדרה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "סוג",
+                  "FieldValue": "בתי המשפט לתעבורה",
+                  "FieldType": 1
+                },
+                { "FieldName": "ישוב", "FieldValue": "חדרה", "FieldType": 1 },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "רחוב הלל יפה 7א, חדרה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "מרכז מידע",
+                  "FieldValue": "077-2703333",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "למידע נוסף על בית המשפט באתר",
+                  "FieldValue": "https://www.gov.il/he/departments/bureaus/traffic_courts_reception_of_the_public_hadera",
+                  "FieldType": 5
+                }
+              ]
+            }
+          ],
+          "objectId": 47,
+          "centroid": { "y": 704559.0, "x": 192323.0, "geometryType": "point" },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם",
+                  "FieldValue": "בית המשפט לענייני משפחה - חיפה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "סוג",
+                  "FieldValue": "בתי המשפט לענייני משפחה",
+                  "FieldType": 1
+                },
+                { "FieldName": "ישוב", "FieldValue": "חיפה", "FieldType": 1 },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "שדרות הפלי\"ם 12, חיפה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "מרכז מידע",
+                  "FieldValue": "077-2703333",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "למידע נוסף על בית המשפט באתר",
+                  "FieldValue": "https://www.gov.il/he/departments/bureaus/family_courts_reception_of_the_public_haifa",
+                  "FieldType": 5
+                }
+              ]
+            }
+          ],
+          "objectId": 52,
+          "centroid": { "y": 746625.0, "x": 200479.0, "geometryType": "point" },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם",
+                  "FieldValue": "בית המשפט לנוער - ירושלים",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "סוג",
+                  "FieldValue": "בתי משפט לנוער",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "ישוב",
+                  "FieldValue": "ירושלים",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "רחוב חשין 6, ירושלים",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "מרכז מידע",
+                  "FieldValue": "077-2703333",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "למידע נוסף על בית המשפט באתר",
+                  "FieldValue": "https://www.gov.il/he/departments/bureaus/juvenile_courts_reception_of_the_public_jerusalem",
+                  "FieldType": 5
+                }
+              ]
+            }
+          ],
+          "objectId": 63,
+          "centroid": { "y": 632060.0, "x": 221094.0, "geometryType": "point" },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם",
+                  "FieldValue": "בית משפט השלום - מחוז דרום - באר שבע",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "סוג",
+                  "FieldValue": "בתי משפט השלום",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "ישוב",
+                  "FieldValue": "באר שבע",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "רחוב התקווה 5, באר שבע",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "מרכז מידע",
+                  "FieldValue": "077-2703333",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "למידע נוסף על בית המשפט באתר",
+                  "FieldValue": "https://www.gov.il/he/departments/bureaus/magistrates_courts_reception_of_the_public_beer_sheva",
+                  "FieldType": 5
+                }
+              ]
+            }
+          ],
+          "objectId": 28,
+          "centroid": { "y": 572813.0, "x": 180850.0, "geometryType": "point" },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם",
+                  "FieldValue": "בית המשפט לנוער - קריית גת",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "סוג",
+                  "FieldValue": "בתי משפט לנוער",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "ישוב",
+                  "FieldValue": "קריית גת",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "רחוב חשוון 12, קריית גת",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "מרכז מידע",
+                  "FieldValue": "077-2703333",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "למידע נוסף על בית המשפט באתר",
+                  "FieldValue": "https://www.gov.il/he/departments/bureaus/juvenile_courts_reception_of_the_public_qiryat_gat",
+                  "FieldType": 5
+                }
+              ]
+            }
+          ],
+          "objectId": 110,
+          "centroid": { "y": 612313.0, "x": 178899.0, "geometryType": "point" },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם",
+                  "FieldValue": "בית המשפט לתביעות קטנות - אשדוד",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "סוג",
+                  "FieldValue": "בתי המשפט לתביעות קטנות",
+                  "FieldType": 1
+                },
+                { "FieldName": "ישוב", "FieldValue": "אשדוד", "FieldType": 1 },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "רחוב מורדי הגטאות 1, אשדוד",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "מרכז מידע",
+                  "FieldValue": "077-2703333",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "למידע נוסף על בית המשפט באתר",
+                  "FieldValue": "https://www.gov.il/he/departments/bureaus/courts_reception_of_the_public_ashdod",
+                  "FieldType": 5
+                }
+              ]
+            }
+          ],
+          "objectId": 16,
+          "centroid": { "y": 634786.0, "x": 167677.0, "geometryType": "point" },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם",
+                  "FieldValue": "בית המשפט לעניינים מקומיים - רחובות",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "סוג",
+                  "FieldValue": "בתי המשפט לעניינים מקומיים",
+                  "FieldType": 1
+                },
+                { "FieldName": "ישוב", "FieldValue": "רחובות", "FieldType": 1 },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "רחוב רוז'נסקי 9, רחובות",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "מרכז מידע",
+                  "FieldValue": "077-2703333",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "למידע נוסף על בית המשפט באתר",
+                  "FieldValue": "https://www.gov.il/he/departments/bureaus/local_affairs_court_reception_of_the_public_rehovot",
+                  "FieldType": 5
+                }
+              ]
+            }
+          ],
+          "objectId": 124,
+          "centroid": { "y": 644601.0, "x": 181510.0, "geometryType": "point" },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם",
+                  "FieldValue": "בית משפט השלום - מחוז מרכז - רחובות",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "סוג",
+                  "FieldValue": "בתי משפט השלום",
+                  "FieldType": 1
+                },
+                { "FieldName": "ישוב", "FieldValue": "רחובות", "FieldType": 1 },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "רחוב רוז'נסקי 9, רחובות",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "מרכז מידע",
+                  "FieldValue": "077-2703333",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "למידע נוסף על בית המשפט באתר",
+                  "FieldValue": "https://www.gov.il/he/departments/bureaus/magistrates_courts_reception_of_the_public_rehovot",
+                  "FieldType": 5
+                }
+              ]
+            }
+          ],
+          "objectId": 126,
+          "centroid": { "y": 644601.0, "x": 181510.0, "geometryType": "point" },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם",
+                  "FieldValue": "בית משפט השלום - מחוז תל אביב - תל אביב-יפו",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "סוג",
+                  "FieldValue": "בתי משפט השלום",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "ישוב",
+                  "FieldValue": "תל אביב-יפו",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "רחוב ויצמן 1, תל אביב-יפו",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "מרכז מידע",
+                  "FieldValue": "077-2703333",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "למידע נוסף על בית המשפט באתר",
+                  "FieldValue": "https://www.gov.il/he/departments/bureaus/magistrates_courts_reception_of_the_public_tel_aviv",
+                  "FieldType": 5
+                }
+              ]
+            }
+          ],
+          "objectId": 2,
+          "centroid": { "y": 664985.0, "x": 180137.0, "geometryType": "point" },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם",
+                  "FieldValue": "בית המשפט לתעבורה - מחוז מרכז - פתח תקווה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "סוג",
+                  "FieldValue": "בתי המשפט לתעבורה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "ישוב",
+                  "FieldValue": "פתח תקווה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "רחוב הס 20, פתח תקווה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "מרכז מידע",
+                  "FieldValue": "077-2703333",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "למידע נוסף על בית המשפט באתר",
+                  "FieldValue": "https://www.gov.il/he/departments/bureaus/traffic_courts_reception_of_the_public_petah_tikva",
+                  "FieldType": 5
+                }
+              ]
+            }
+          ],
+          "objectId": 96,
+          "centroid": { "y": 666056.0, "x": 189674.0, "geometryType": "point" },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם",
+                  "FieldValue": "בית המשפט לעניינים מקומיים - הרצליה ורמת השרון",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "סוג",
+                  "FieldValue": "בתי המשפט לעניינים מקומיים",
+                  "FieldType": 1
+                },
+                { "FieldName": "ישוב", "FieldValue": "הרצליה", "FieldType": 1 },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "רחוב בן גוריון 31, הרצליה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "מרכז מידע",
+                  "FieldValue": "077-2703333",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "למידע נוסף על בית המשפט באתר",
+                  "FieldValue": "https://www.gov.il/he/departments/bureaus/local_affairs_court_reception_of_the_public_herzliya",
+                  "FieldType": 5
+                }
+              ]
+            }
+          ],
+          "objectId": 40,
+          "centroid": { "y": 674330.0, "x": 185407.0, "geometryType": "point" },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם",
+                  "FieldValue": "בית המשפט לעניינים מקומיים - כפר סבא",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "סוג",
+                  "FieldValue": "בתי המשפט לעניינים מקומיים",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "ישוב",
+                  "FieldValue": "כפר-סבא",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "רחוב טשרניחובסקי 14, כפר סבא",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "מרכז מידע",
+                  "FieldValue": "077-2703333",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "למידע נוסף על בית המשפט באתר",
+                  "FieldValue": "https://www.gov.il/he/departments/bureaus/local_affairs_court_reception_of_the_public_kfar-saba",
+                  "FieldType": 5
+                }
+              ]
+            }
+          ],
+          "objectId": 69,
+          "centroid": { "y": 675926.0, "x": 190078.0, "geometryType": "point" },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם",
+                  "FieldValue": "בית משפט השלום - מחוז מרכז - נתניה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "סוג",
+                  "FieldValue": "בתי משפט השלום",
+                  "FieldType": 1
+                },
+                { "FieldName": "ישוב", "FieldValue": "נתניה", "FieldType": 1 },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "רחוב הרצל 57, נתניה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "מרכז מידע",
+                  "FieldValue": "077-2703333",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "למידע נוסף על בית המשפט באתר",
+                  "FieldValue": "https://www.gov.il/he/departments/bureaus/magistrates_courts_reception_of_the_public_netanya",
+                  "FieldType": 5
+                }
+              ]
+            }
+          ],
+          "objectId": 86,
+          "centroid": { "y": 692668.0, "x": 187205.0, "geometryType": "point" },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם",
+                  "FieldValue": "בית המשפט לתביעות קטנות - חיפה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "סוג",
+                  "FieldValue": "בתי המשפט לתביעות קטנות",
+                  "FieldType": 1
+                },
+                { "FieldName": "ישוב", "FieldValue": "חיפה", "FieldType": 1 },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "שדרות הפלי\"ם 12, חיפה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "מרכז מידע",
+                  "FieldValue": "077-2703333",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "למידע נוסף על בית המשפט באתר",
+                  "FieldValue": "https://www.gov.il/he/departments/bureaus/courts_reception_of_the_public_haifa",
+                  "FieldType": 5
+                }
+              ]
+            }
+          ],
+          "objectId": 54,
+          "centroid": { "y": 746625.0, "x": 200479.0, "geometryType": "point" },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם",
+                  "FieldValue": "בית המשפט המחוזי - ירושלים",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "סוג",
+                  "FieldValue": "בתי המשפט המחוזיים",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "ישוב",
+                  "FieldValue": "ירושלים",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "רחוב סלאח א-דין 40, ירושלים",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "מרכז מידע",
+                  "FieldValue": "077-2703333",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "למידע נוסף על בית המשפט באתר",
+                  "FieldValue": "https://www.gov.il/he/departments/bureaus/district_courts_reception_of_the_public_jerusalem",
+                  "FieldType": 5
+                }
+              ]
+            }
+          ],
+          "objectId": 61,
+          "centroid": { "y": 632433.0, "x": 222040.0, "geometryType": "point" },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם",
+                  "FieldValue": "בית המשפט המחוזי - באר שבע",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "סוג",
+                  "FieldValue": "בתי המשפט המחוזיים",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "ישוב",
+                  "FieldValue": "באר שבע",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "רחוב התקווה 5, באר שבע",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "מרכז מידע",
+                  "FieldValue": "077-2703333",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "למידע נוסף על בית המשפט באתר",
+                  "FieldValue": "https://www.gov.il/he/departments/bureaus/district_courts_reception_of_the_public_beer_sheva",
+                  "FieldType": 5
+                }
+              ]
+            }
+          ],
+          "objectId": 22,
+          "centroid": { "y": 572813.0, "x": 180850.0, "geometryType": "point" },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם",
+                  "FieldValue": "בית המשפט לעניינים מקומיים - באר שבע",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "סוג",
+                  "FieldValue": "בתי המשפט לעניינים מקומיים",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "ישוב",
+                  "FieldValue": "באר שבע",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "רחוב התקווה 5, באר שבע",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "מרכז מידע",
+                  "FieldValue": "077-2703333",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "למידע נוסף על בית המשפט באתר",
+                  "FieldValue": "https://www.gov.il/he/departments/bureaus/local_affairs_court_reception_of_the_public_beer_sheva",
+                  "FieldType": 5
+                }
+              ]
+            }
+          ],
+          "objectId": 25,
+          "centroid": { "y": 572813.0, "x": 180850.0, "geometryType": "point" },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם",
+                  "FieldValue": "בית המשפט לתעבורה - באר שבע",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "סוג",
+                  "FieldValue": "בתי המשפט לתעבורה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "ישוב",
+                  "FieldValue": "באר שבע",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "רחוב התקווה 5, באר שבע",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "מרכז מידע",
+                  "FieldValue": "077-2703333",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "למידע נוסף על בית המשפט באתר",
+                  "FieldValue": "https://www.gov.il/he/departments/bureaus/traffic_courts_reception_of_the_public_beer_sheva",
+                  "FieldType": 5
+                }
+              ]
+            }
+          ],
+          "objectId": 27,
+          "centroid": { "y": 572813.0, "x": 180850.0, "geometryType": "point" },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם",
+                  "FieldValue": "בית המשפט לנוער - אשדוד",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "סוג",
+                  "FieldValue": "בתי משפט לנוער",
+                  "FieldType": 1
+                },
+                { "FieldName": "ישוב", "FieldValue": "אשדוד", "FieldType": 1 },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "רחוב מורדי הגטאות 1, אשדוד",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "מרכז מידע",
+                  "FieldValue": "077-2703333",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "למידע נוסף על בית המשפט באתר",
+                  "FieldValue": "https://www.gov.il/he/departments/bureaus/juvenile_courts_reception_of_the_public_ashdod",
+                  "FieldType": 5
+                }
+              ]
+            }
+          ],
+          "objectId": 14,
+          "centroid": { "y": 634786.0, "x": 167677.0, "geometryType": "point" },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם",
+                  "FieldValue": "בית המשפט לעניינים מקומיים - בת ים",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "סוג",
+                  "FieldValue": "בתי המשפט לעניינים מקומיים",
+                  "FieldType": 1
+                },
+                { "FieldName": "ישוב", "FieldValue": "בת ים", "FieldType": 1 },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "רחוב הרב יצחק ניסנבוים 7, בת ים",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "מרכז מידע",
+                  "FieldValue": "077-2703333",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "למידע נוסף על בית המשפט באתר",
+                  "FieldValue": "https://www.gov.il/he/departments/bureaus/local_affairs_court_reception_of_the_public_bat_yam",
+                  "FieldType": 5
+                }
+              ]
+            }
+          ],
+          "objectId": 321,
+          "centroid": { "y": 657133.0, "x": 176404.0, "geometryType": "point" },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם",
+                  "FieldValue": "בית המשפט לתביעות קטנות - הרצליה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "סוג",
+                  "FieldValue": "בתי המשפט לתביעות קטנות",
+                  "FieldType": 1
+                },
+                { "FieldName": "ישוב", "FieldValue": "הרצליה", "FieldType": 1 },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "רחוב בן גוריון 31, הרצליה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "מרכז מידע",
+                  "FieldValue": "077-2703333",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "למידע נוסף על בית המשפט באתר",
+                  "FieldValue": "https://www.gov.il/he/departments/bureaus/courts_reception_of_the_public_herzliya",
+                  "FieldType": 5
+                }
+              ]
+            }
+          ],
+          "objectId": 41,
+          "centroid": { "y": 674330.0, "x": 185407.0, "geometryType": "point" },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם",
+                  "FieldValue": "בית משפט השלום - מחוז מרכז - כפר סבא",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "סוג",
+                  "FieldValue": "בתי משפט השלום",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "ישוב",
+                  "FieldValue": "כפר-סבא",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "רחוב הטחנה 5, כפר סבא",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "מרכז מידע",
+                  "FieldValue": "077-2703333",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "למידע נוסף על בית המשפט באתר",
+                  "FieldValue": "https://www.gov.il/he/departments/bureaus/magistrates_courts_reception_of_the_public_kfar_saba",
+                  "FieldType": 5
+                }
+              ]
+            }
+          ],
+          "objectId": 71,
+          "centroid": { "y": 675551.0, "x": 189904.0, "geometryType": "point" },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם",
+                  "FieldValue": "בית משפט השלום - מחוז חיפה - חדרה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "סוג",
+                  "FieldValue": "בתי משפט השלום",
+                  "FieldType": 1
+                },
+                { "FieldName": "ישוב", "FieldValue": "חדרה", "FieldType": 1 },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "רחוב הלל יפה 7א, חדרה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "מרכז מידע",
+                  "FieldValue": "077-2703333",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "למידע נוסף על בית המשפט באתר",
+                  "FieldValue": "https://www.gov.il/he/departments/bureaus/magistrates_courts_reception_of_the_public_hadera",
+                  "FieldType": 5
+                }
+              ]
+            }
+          ],
+          "objectId": 48,
+          "centroid": { "y": 704559.0, "x": 192323.0, "geometryType": "point" },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם",
+                  "FieldValue": "בית המשפט לתביעות קטנות - עפולה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "סוג",
+                  "FieldValue": "בתי המשפט לתביעות קטנות",
+                  "FieldType": 1
+                },
+                { "FieldName": "ישוב", "FieldValue": "עפולה", "FieldType": 1 },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "רחוב מנחם אוסישקין 42, עפולה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "מרכז מידע",
+                  "FieldValue": "077-2703333",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "למידע נוסף על בית המשפט באתר",
+                  "FieldValue": "https://www.gov.il/he/departments/bureaus/courts_reception_of_the_public_afula",
+                  "FieldType": 5
+                }
+              ]
+            }
+          ],
+          "objectId": 90,
+          "centroid": { "y": 723851.0, "x": 227138.0, "geometryType": "point" },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם",
+                  "FieldValue": "בית המשפט לתביעות קטנות - קריית גת",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "סוג",
+                  "FieldValue": "בתי המשפט לתביעות קטנות",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "ישוב",
+                  "FieldValue": "קריית גת",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "רחוב חשוון 12, קריית גת",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "מרכז מידע",
+                  "FieldValue": "077-2703333",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "למידע נוסף על בית המשפט באתר",
+                  "FieldValue": "https://www.gov.il/he/departments/bureaus/courts_reception_of_the_public_qiryat_gat",
+                  "FieldType": 5
+                }
+              ]
+            }
+          ],
+          "objectId": 112,
+          "centroid": { "y": 612313.0, "x": 178899.0, "geometryType": "point" },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם",
+                  "FieldValue": "בית משפט השלום - מחוז דרום - אשדוד",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "סוג",
+                  "FieldValue": "בתי משפט השלום",
+                  "FieldType": 1
+                },
+                { "FieldName": "ישוב", "FieldValue": "אשדוד", "FieldType": 1 },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "רחוב מורדי הגטאות 1, אשדוד",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "מרכז מידע",
+                  "FieldValue": "077-2703333",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "למידע נוסף על בית המשפט באתר",
+                  "FieldValue": "https://www.gov.il/he/departments/bureaus/magistrates_courts_reception_of_the_public_ashdod",
+                  "FieldType": 5
+                }
+              ]
+            }
+          ],
+          "objectId": 18,
+          "centroid": { "y": 634786.0, "x": 167677.0, "geometryType": "point" },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם",
+                  "FieldValue": "בית המשפט לתביעות קטנות - מחוז תל אביב - בת ים",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "סוג",
+                  "FieldValue": "בתי המשפט לתביעות קטנות",
+                  "FieldType": 1
+                },
+                { "FieldName": "ישוב", "FieldValue": "בת ים", "FieldType": 1 },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "רחוב הרב יצחק ניסנבוים 7, בת ים",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "מרכז מידע",
+                  "FieldValue": "077-2703333",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "למידע נוסף על בית המשפט באתר",
+                  "FieldValue": "https://www.gov.il/he/departments/bureaus/courts_reception_of_the_public_bat_yam",
+                  "FieldType": 5
+                }
+              ]
+            }
+          ],
+          "objectId": 323,
+          "centroid": { "y": 657133.0, "x": 176404.0, "geometryType": "point" },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם",
+                  "FieldValue": "בית משפט השלום - מחוז מרכז - ראשון לציון",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "סוג",
+                  "FieldValue": "בתי משפט השלום",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "ישוב",
+                  "FieldValue": "ראשון לציון",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "רחוב ישראל גלילי 5, ראשון לציון",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "מרכז מידע",
+                  "FieldValue": "077-2703333",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "למידע נוסף על בית המשפט באתר",
+                  "FieldValue": "https://www.gov.il/he/departments/bureaus/magistrates_courts_reception_of_the_public_rishon_lezion",
+                  "FieldType": 5
+                }
+              ]
+            }
+          ],
+          "objectId": 122,
+          "centroid": { "y": 652984.0, "x": 179434.0, "geometryType": "point" },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם",
+                  "FieldValue": "בית המשפט המחוזי - תל אביב",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "סוג",
+                  "FieldValue": "בתי המשפט המחוזיים",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "ישוב",
+                  "FieldValue": "תל אביב-יפו",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "רחוב ויצמן 1, תל אביב-יפו",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "מרכז מידע",
+                  "FieldValue": "077-2703333",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "למידע נוסף על בית המשפט באתר",
+                  "FieldValue": "https://www.gov.il/he/departments/bureaus/district_courts_reception_of_the_public_tel_aviv",
+                  "FieldType": 5
+                }
+              ]
+            }
+          ],
+          "objectId": 1,
+          "centroid": { "y": 664985.0, "x": 180137.0, "geometryType": "point" },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם",
+                  "FieldValue": "בית המשפט לעניינים מקומיים - תל אביב",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "סוג",
+                  "FieldValue": "בתי המשפט לעניינים מקומיים",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "ישוב",
+                  "FieldValue": "תל אביב-יפו",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "שדרות שאול המלך 39, תל אביב-יפו",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "מרכז מידע",
+                  "FieldValue": "077-2703333",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "למידע נוסף על בית המשפט באתר",
+                  "FieldValue": "https://www.gov.il/he/departments/bureaus/local_affairs_court_reception_of_the_public_tel_aviv",
+                  "FieldType": 5
+                }
+              ]
+            }
+          ],
+          "objectId": 7,
+          "centroid": { "y": 665026.0, "x": 180387.0, "geometryType": "point" },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם",
+                  "FieldValue": "בית המשפט לעניינים מקומיים - רמת גן",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "סוג",
+                  "FieldValue": "בתי המשפט לעניינים מקומיים",
+                  "FieldType": 1
+                },
+                { "FieldName": "ישוב", "FieldValue": "רמת גן", "FieldType": 1 },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "דרך דוד בן גוריון 38, רמת גן",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "מרכז מידע",
+                  "FieldValue": "077-2703333",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "למידע נוסף על בית המשפט באתר",
+                  "FieldValue": "https://www.gov.il/he/departments/bureaus/local_affairs_court_reception_of_the_public_ramat-gan",
+                  "FieldType": 5
+                }
+              ]
+            }
+          ],
+          "objectId": 130,
+          "centroid": { "y": 666546.0, "x": 183386.0, "geometryType": "point" },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם",
+                  "FieldValue": "בית המשפט לנוער - רמלה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "סוג",
+                  "FieldValue": "בתי משפט לנוער",
+                  "FieldType": 1
+                },
+                { "FieldName": "ישוב", "FieldValue": "רמלה", "FieldType": 1 },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "שדרות ויצמן 3, רמלה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "מרכז מידע",
+                  "FieldValue": "077-2703333",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "למידע נוסף על בית המשפט באתר",
+                  "FieldValue": "https://www.gov.il/he/departments/bureaus/juvenile_courts_reception_of_the_public_ramla",
+                  "FieldType": 5
+                }
+              ]
+            }
+          ],
+          "objectId": 127,
+          "centroid": { "y": 648690.0, "x": 187645.0, "geometryType": "point" },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם",
+                  "FieldValue": "בית המשפט לענייני משפחה - פתח תקווה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "סוג",
+                  "FieldValue": "בתי המשפט לענייני משפחה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "ישוב",
+                  "FieldValue": "פתח תקווה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "רחוב בזל 1, פתח תקווה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "מרכז מידע",
+                  "FieldValue": "077-2703333",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "למידע נוסף על בית המשפט באתר",
+                  "FieldValue": "https://www.gov.il/he/departments/bureaus/family_courts_reception_of_the_public_petah_tikva",
+                  "FieldType": 5
+                }
+              ]
+            }
+          ],
+          "objectId": 93,
+          "centroid": { "y": 666832.0, "x": 187536.0, "geometryType": "point" },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם",
+                  "FieldValue": "בית משפט השלום - מחוז מרכז - פתח תקווה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "סוג",
+                  "FieldValue": "בתי משפט השלום",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "ישוב",
+                  "FieldValue": "פתח תקווה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "רחוב בזל 1, פתח תקווה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "מרכז מידע",
+                  "FieldValue": "077-2703333",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "למידע נוסף על בית המשפט באתר",
+                  "FieldValue": "https://www.gov.il/he/departments/bureaus/magistrates_courts_reception_of_the_public_petah_tikva",
+                  "FieldType": 5
+                }
+              ]
+            }
+          ],
+          "objectId": 97,
+          "centroid": { "y": 666832.0, "x": 187536.0, "geometryType": "point" },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם",
+                  "FieldValue": "בית המשפט לעניינים מקומיים - נתניה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "סוג",
+                  "FieldValue": "בתי המשפט לעניינים מקומיים",
+                  "FieldType": 1
+                },
+                { "FieldName": "ישוב", "FieldValue": "נתניה", "FieldType": 1 },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "רחוב הרצל 57, נתניה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "מרכז מידע",
+                  "FieldValue": "077-2703333",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "למידע נוסף על בית המשפט באתר",
+                  "FieldValue": "https://www.gov.il/he/departments/bureaus/local_affairs_court_reception_of_the_public_netanya",
+                  "FieldType": 5
+                }
+              ]
+            }
+          ],
+          "objectId": 84,
+          "centroid": { "y": 692668.0, "x": 187205.0, "geometryType": "point" },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם",
+                  "FieldValue": "בית המשפט לענייני משפחה - חדרה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "סוג",
+                  "FieldValue": "בתי המשפט לענייני משפחה",
+                  "FieldType": 1
+                },
+                { "FieldName": "ישוב", "FieldValue": "חדרה", "FieldType": 1 },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "רחוב הלל יפה 7א, חדרה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "מרכז מידע",
+                  "FieldValue": "077-2703333",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "למידע נוסף על בית המשפט באתר",
+                  "FieldValue": "https://www.gov.il/he/departments/bureaus/family_courts_reception_of_the_public_hadera",
+                  "FieldType": 5
+                }
+              ]
+            }
+          ],
+          "objectId": 44,
+          "centroid": { "y": 704559.0, "x": 192323.0, "geometryType": "point" },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם",
+                  "FieldValue": "בית משפט השלום - מחוז צפון - עפולה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "סוג",
+                  "FieldValue": "בתי משפט השלום",
+                  "FieldType": 1
+                },
+                { "FieldName": "ישוב", "FieldValue": "עפולה", "FieldType": 1 },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "רחוב מנחם אוסישקין 42, עפולה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "מרכז מידע",
+                  "FieldValue": "077-2703333",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "למידע נוסף על בית המשפט באתר",
+                  "FieldValue": "https://www.gov.il/he/departments/bureaus/magistrates_courts_reception_of_the_public_afula",
+                  "FieldType": 5
+                }
+              ]
+            }
+          ],
+          "objectId": 91,
+          "centroid": { "y": 723851.0, "x": 227138.0, "geometryType": "point" },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם",
+                  "FieldValue": "בית המשפט לנוער - אשקלון",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "סוג",
+                  "FieldValue": "בתי משפט לנוער",
+                  "FieldType": 1
+                },
+                { "FieldName": "ישוב", "FieldValue": "אשקלון", "FieldType": 1 },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "שדרות בן-גוריון 19, אשקלון",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "מרכז מידע",
+                  "FieldValue": "077-2703333",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "למידע נוסף על בית המשפט באתר",
+                  "FieldValue": "https://www.gov.il/he/departments/bureaus/juvenile_courts_reception_of_the_public_ashkelon",
+                  "FieldType": 5
+                }
+              ]
+            }
+          ],
+          "objectId": 19,
+          "centroid": { "y": 619281.0, "x": 158710.0, "geometryType": "point" },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם",
+                  "FieldValue": "בית המשפט לתביעות קטנות - רחובות",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "סוג",
+                  "FieldValue": "בתי המשפט לתביעות קטנות",
+                  "FieldType": 1
+                },
+                { "FieldName": "ישוב", "FieldValue": "רחובות", "FieldType": 1 },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "רחוב רוז'נסקי 9, רחובות",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "מרכז מידע",
+                  "FieldValue": "077-2703333",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "למידע נוסף על בית המשפט באתר",
+                  "FieldValue": "https://www.gov.il/he/departments/bureaus/courts_reception_of_the_public_rehovot",
+                  "FieldType": 5
+                }
+              ]
+            }
+          ],
+          "objectId": 125,
+          "centroid": { "y": 644601.0, "x": 181510.0, "geometryType": "point" },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם",
+                  "FieldValue": "בית משפט השלום - מחוז תל-אביב - בת ים",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "סוג",
+                  "FieldValue": "בתי משפט השלום",
+                  "FieldType": 1
+                },
+                { "FieldName": "ישוב", "FieldValue": "בת ים", "FieldType": 1 },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "רחוב הרב יצחק ניסנבוים 7, בת ים",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "מרכז מידע",
+                  "FieldValue": "077-2703333",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "למידע נוסף על בית המשפט באתר",
+                  "FieldValue": "https://www.gov.il/he/departments/bureaus/magistrates_courts_reception_of_the_public_bat_yam",
+                  "FieldType": 5
+                }
+              ]
+            }
+          ],
+          "objectId": 324,
+          "centroid": { "y": 657133.0, "x": 176404.0, "geometryType": "point" },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם",
+                  "FieldValue": "בית משפט שוקן תל-אביב",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "סוג",
+                  "FieldValue": "בתי משפט השלום",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "ישוב",
+                  "FieldValue": "תל אביב-יפו",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "רחוב שוקן 25, תל אביב-יפו",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "מרכז מידע",
+                  "FieldValue": "077-2703333",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "למידע נוסף על בית המשפט באתר",
+                  "FieldValue": "https://www.gov.il/he/departments/bureaus/magistrates_courts_reception_of_the_public_tel_aviv_schocken",
+                  "FieldType": 5
+                }
+              ]
+            }
+          ],
+          "objectId": 5,
+          "centroid": {
+            "y": 662112.173,
+            "x": 178646.4694,
+            "geometryType": "point"
+          },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם",
+                  "FieldValue": "בית המשפט לעניינים מקומיים - בני ברק",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "סוג",
+                  "FieldValue": "בתי המשפט לעניינים מקומיים",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "ישוב",
+                  "FieldValue": "בני ברק",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "רחוב ברוך הירש 14, בני ברק",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "מרכז מידע",
+                  "FieldValue": "077-2703333",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "למידע נוסף על בית המשפט באתר",
+                  "FieldValue": "https://www.gov.il/he/departments/bureaus/local_affairs_court_reception_of_the_public_bnei_brak",
+                  "FieldType": 5
+                }
+              ]
+            }
+          ],
+          "objectId": 34,
+          "centroid": { "y": 667169.0, "x": 183746.0, "geometryType": "point" },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם",
+                  "FieldValue": "בית המשפט לתביעות קטנות - בית שמש",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "סוג",
+                  "FieldValue": "בתי המשפט לתביעות קטנות",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "ישוב",
+                  "FieldValue": "בית שמש",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "רחוב הרצל 9, בית שמש",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "מרכז מידע",
+                  "FieldValue": "077-2703333",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "למידע נוסף על בית המשפט באתר",
+                  "FieldValue": "https://www.gov.il/he/departments/bureaus/courts_reception_of_the_public_bet_shemesh",
+                  "FieldType": 5
+                }
+              ]
+            }
+          ],
+          "objectId": 32,
+          "centroid": { "y": 628525.0, "x": 198822.0, "geometryType": "point" },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם",
+                  "FieldValue": "בית משפט השלום - מחוז ירושלים - בית שמש",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "סוג",
+                  "FieldValue": "בתי משפט השלום",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "ישוב",
+                  "FieldValue": "בית שמש",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "רחוב הרצל 9, בית שמש",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "מרכז מידע",
+                  "FieldValue": "077-2703333",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "למידע נוסף על בית המשפט באתר",
+                  "FieldValue": "https://www.gov.il/he/departments/bureaus/magistrates_courts_reception_of_the_public_bet_shemesh",
+                  "FieldType": 5
+                }
+              ]
+            }
+          ],
+          "objectId": 33,
+          "centroid": { "y": 628525.0, "x": 198822.0, "geometryType": "point" },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם",
+                  "FieldValue": "בית המשפט לתביעות קטנות - פתח תקווה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "סוג",
+                  "FieldValue": "בתי המשפט לתביעות קטנות",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "ישוב",
+                  "FieldValue": "פתח תקווה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "רחוב בזל 1, פתח תקווה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "מרכז מידע",
+                  "FieldValue": "077-2703333",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "למידע נוסף על בית המשפט באתר",
+                  "FieldValue": "https://www.gov.il/he/departments/bureaus/courts_reception_of_the_public_petah_tikva",
+                  "FieldType": 5
+                }
+              ]
+            }
+          ],
+          "objectId": 95,
+          "centroid": { "y": 666832.0, "x": 187536.0, "geometryType": "point" },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם",
+                  "FieldValue": "בית המשפט לעניינים מקומיים - חדרה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "סוג",
+                  "FieldValue": "בתי המשפט לעניינים מקומיים",
+                  "FieldType": 1
+                },
+                { "FieldName": "ישוב", "FieldValue": "חדרה", "FieldType": 1 },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "רחוב הרברט סמואל 17, חדרה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "מרכז מידע",
+                  "FieldValue": "077-2703333",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "למידע נוסף על בית המשפט באתר",
+                  "FieldValue": "https://www.gov.il/he/departments/bureaus/local_affairs_court_reception_of_the_public_hadera",
+                  "FieldType": 5
+                }
+              ]
+            }
+          ],
+          "objectId": 45,
+          "centroid": { "y": 704964.0, "x": 192037.0, "geometryType": "point" },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם",
+                  "FieldValue": "בית המשפט לנוער - חדרה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "סוג",
+                  "FieldValue": "בתי משפט לנוער",
+                  "FieldType": 1
+                },
+                { "FieldName": "ישוב", "FieldValue": "חדרה", "FieldType": 1 },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "רחוב הלל יפה 7א, חדרה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "מרכז מידע",
+                  "FieldValue": "077-2703333",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "למידע נוסף על בית המשפט באתר",
+                  "FieldValue": "https://www.gov.il/he/departments/bureaus/juvenile_courts_reception_of_the_public_hadera",
+                  "FieldType": 5
+                }
+              ]
+            }
+          ],
+          "objectId": 43,
+          "centroid": { "y": 704559.0, "x": 192323.0, "geometryType": "point" },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם",
+                  "FieldValue": "בית המשפט לתביעות קטנות - חדרה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "סוג",
+                  "FieldValue": "בתי המשפט לתביעות קטנות",
+                  "FieldType": 1
+                },
+                { "FieldName": "ישוב", "FieldValue": "חדרה", "FieldType": 1 },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "רחוב הלל יפה 7א, חדרה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "מרכז מידע",
+                  "FieldValue": "077-2703333",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "למידע נוסף על בית המשפט באתר",
+                  "FieldValue": "https://www.gov.il/he/departments/bureaus/courts_reception_of_the_public_hadera",
+                  "FieldType": 5
+                }
+              ]
+            }
+          ],
+          "objectId": 46,
+          "centroid": { "y": 704559.0, "x": 192323.0, "geometryType": "point" },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם",
+                  "FieldValue": "בית המשפט לתעבורה - חיפה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "סוג",
+                  "FieldValue": "בתי המשפט לתעבורה",
+                  "FieldType": 1
+                },
+                { "FieldName": "ישוב", "FieldValue": "חיפה", "FieldType": 1 },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "שדרות הפלי\"ם 12, חיפה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "מרכז מידע",
+                  "FieldValue": "077-2703333",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "למידע נוסף על בית המשפט באתר",
+                  "FieldValue": "https://www.gov.il/he/departments/bureaus/traffic_courts_reception_of_the_public_haifa",
+                  "FieldType": 5
+                }
+              ]
+            }
+          ],
+          "objectId": 55,
+          "centroid": { "y": 746625.0, "x": 200479.0, "geometryType": "point" },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם",
+                  "FieldValue": "בית משפט השלום - מחוז חיפה - חיפה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "סוג",
+                  "FieldValue": "בתי משפט השלום",
+                  "FieldType": 1
+                },
+                { "FieldName": "ישוב", "FieldValue": "חיפה", "FieldType": 1 },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "שדרות הפלי\"ם 12, חיפה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "מרכז מידע",
+                  "FieldValue": "077-2703333",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "למידע נוסף על בית המשפט באתר",
+                  "FieldValue": "https://www.gov.il/he/departments/bureaus/magistrates_courts_reception_of_the_public_haifa",
+                  "FieldType": 5
+                }
+              ]
+            }
+          ],
+          "objectId": 56,
+          "centroid": { "y": 746625.0, "x": 200479.0, "geometryType": "point" },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם",
+                  "FieldValue": "בית המשפט לתעבורה - ירושלים",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "סוג",
+                  "FieldValue": "בתי המשפט לתעבורה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "ישוב",
+                  "FieldValue": "ירושלים",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "רחוב בית הדפוס 12, ירושלים",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "מרכז מידע",
+                  "FieldValue": "077-2703333",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "למידע נוסף על בית המשפט באתר",
+                  "FieldValue": "https://www.gov.il/he/departments/bureaus/traffic_courts_reception_of_the_public_jerusalem",
+                  "FieldType": 5
+                }
+              ]
+            }
+          ],
+          "objectId": 67,
+          "centroid": { "y": 632656.0, "x": 217941.0, "geometryType": "point" },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם",
+                  "FieldValue": "בית משפט השלום - מחוז ירושלים - ירושלים",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "סוג",
+                  "FieldValue": "בתי משפט השלום",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "ישוב",
+                  "FieldValue": "ירושלים",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "רחוב חשין 6, ירושלים",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "מרכז מידע",
+                  "FieldValue": "077-2703333",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "למידע נוסף על בית המשפט באתר",
+                  "FieldValue": "https://www.gov.il/he/departments/bureaus/magistrates_courts_reception_of_the_public_jerusalem",
+                  "FieldType": 5
+                }
+              ]
+            }
+          ],
+          "objectId": 68,
+          "centroid": { "y": 632060.0, "x": 221094.0, "geometryType": "point" },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם",
+                  "FieldValue": "בית המשפט לענייני משפחה - נצרת",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "סוג",
+                  "FieldValue": "בתי המשפט לענייני משפחה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "ישוב",
+                  "FieldValue": "נוף הגליל",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "כיכר קריית יצחק רבין, היכל המשפט החדש, נוף הגליל",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "מרכז מידע",
+                  "FieldValue": "077-2703333",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "למידע נוסף על בית המשפט באתר",
+                  "FieldValue": "https://www.gov.il/he/departments/bureaus/family_courts_reception_of_the_public_nazareth_illit",
+                  "FieldType": 5
+                }
+              ]
+            }
+          ],
+          "objectId": 79,
+          "centroid": { "y": 733992.0, "x": 229289.0, "geometryType": "point" },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם",
+                  "FieldValue": "בית המשפט לתביעות קטנות - נצרת",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "סוג",
+                  "FieldValue": "בתי המשפט לתביעות קטנות",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "ישוב",
+                  "FieldValue": "נוף הגליל",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "כיכר קריית יצחק רבין, היכל המשפט החדש, נוף הגליל",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "מרכז מידע",
+                  "FieldValue": "077-2703333",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "למידע נוסף על בית המשפט באתר",
+                  "FieldValue": "https://www.gov.il/he/departments/bureaus/courts_reception_of_the_public_nazareth_illit",
+                  "FieldType": 5
+                }
+              ]
+            }
+          ],
+          "objectId": 80,
+          "centroid": { "y": 733992.0, "x": 229289.0, "geometryType": "point" },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם",
+                  "FieldValue": "בית המשפט לנוער - באר שבע",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "סוג",
+                  "FieldValue": "בתי משפט לנוער",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "ישוב",
+                  "FieldValue": "באר שבע",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "רחוב התקווה 5, באר שבע",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "מרכז מידע",
+                  "FieldValue": "077-2703333",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "למידע נוסף על בית המשפט באתר",
+                  "FieldValue": "https://www.gov.il/he/departments/bureaus/juvenile_courts_reception_of_the_public_beer_sheva",
+                  "FieldType": 5
+                }
+              ]
+            }
+          ],
+          "objectId": 23,
+          "centroid": { "y": 572813.0, "x": 180850.0, "geometryType": "point" },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם",
+                  "FieldValue": "בית המשפט לנוער - מחוז תל אביב - בת ים",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "סוג",
+                  "FieldValue": "בית המשפט לנוער",
+                  "FieldType": 1
+                },
+                { "FieldName": "ישוב", "FieldValue": "בת ים", "FieldType": 1 },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "רחוב הרב יצחק ניסנבוים 7, בת ים, היכל המשפט בת ים",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "מרכז מידע",
+                  "FieldValue": "077-2703333",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "למידע נוסף על בית המשפט באתר",
+                  "FieldValue": "https://www.gov.il/he/departments/bureaus/juvenile_courts_reception_of_the_public_bat_yam",
+                  "FieldType": 5
+                }
+              ]
+            }
+          ],
+          "objectId": 641,
+          "centroid": { "y": 657133.0, "x": 176404.0, "geometryType": "point" },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם",
+                  "FieldValue": "בית המשפט לעניינים מקומיים - חולון",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "סוג",
+                  "FieldValue": "בתי המשפט לעניינים מקומיים",
+                  "FieldType": 1
+                },
+                { "FieldName": "ישוב", "FieldValue": "חולון", "FieldType": 1 },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "רחוב הנוטרים 3, חולון",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "מרכז מידע",
+                  "FieldValue": "077-2703333",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "למידע נוסף על בית המשפט באתר",
+                  "FieldValue": "https://www.gov.il/he/departments/bureaus/local_affairs_court_reception_of_the_public_holon",
+                  "FieldType": 5
+                }
+              ]
+            }
+          ],
+          "objectId": 49,
+          "centroid": { "y": 659153.0, "x": 179131.0, "geometryType": "point" },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם",
+                  "FieldValue": "בית משפט השלום - מחוז מרכז - רמלה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "סוג",
+                  "FieldValue": "בתי משפט השלום",
+                  "FieldType": 1
+                },
+                { "FieldName": "ישוב", "FieldValue": "רמלה", "FieldType": 1 },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "שדרות ויצמן 3, רמלה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "מרכז מידע",
+                  "FieldValue": "077-2703333",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "למידע נוסף על בית המשפט באתר",
+                  "FieldValue": "https://www.gov.il/he/departments/bureaus/magistrates_courts_reception_of_the_public_ramla",
+                  "FieldType": 5
+                }
+              ]
+            }
+          ],
+          "objectId": 129,
+          "centroid": { "y": 648690.0, "x": 187645.0, "geometryType": "point" },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם",
+                  "FieldValue": "בית המשפט לנוער - נתניה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "סוג",
+                  "FieldValue": "בתי משפט לנוער",
+                  "FieldType": 1
+                },
+                { "FieldName": "ישוב", "FieldValue": "נתניה", "FieldType": 1 },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "רחוב הרצל 57, נתניה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "מרכז מידע",
+                  "FieldValue": "077-2703333",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "למידע נוסף על בית המשפט באתר",
+                  "FieldValue": "https://www.gov.il/he/departments/bureaus/juvenile_courts_reception_of_the_public_netanya",
+                  "FieldType": 5
+                }
+              ]
+            }
+          ],
+          "objectId": 83,
+          "centroid": { "y": 692668.0, "x": 187205.0, "geometryType": "point" },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם",
+                  "FieldValue": "בית המשפט לתביעות קטנות - נתניה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "סוג",
+                  "FieldValue": "בתי המשפט לתביעות קטנות",
+                  "FieldType": 1
+                },
+                { "FieldName": "ישוב", "FieldValue": "נתניה", "FieldType": 1 },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "רחוב הרצל 57, נתניה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "מרכז מידע",
+                  "FieldValue": "077-2703333",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "למידע נוסף על בית המשפט באתר",
+                  "FieldValue": "https://www.gov.il/he/departments/bureaus/courts_reception_of_the_public_netanya",
+                  "FieldType": 5
+                }
+              ]
+            }
+          ],
+          "objectId": 85,
+          "centroid": { "y": 692668.0, "x": 187205.0, "geometryType": "point" },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם",
+                  "FieldValue": "בית המשפט לעניינים מקומיים - חיפה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "סוג",
+                  "FieldValue": "בתי המשפט לעניינים מקומיים",
+                  "FieldType": 1
+                },
+                { "FieldName": "ישוב", "FieldValue": "חיפה", "FieldType": 1 },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "שדרות הפלי\"ם 16, חיפה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "מרכז מידע",
+                  "FieldValue": "077-2703333",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "למידע נוסף על בית המשפט באתר",
+                  "FieldValue": "https://www.gov.il/he/departments/bureaus/local_affairs_court_reception_of_the_public_haifa",
+                  "FieldType": 5
+                }
+              ]
+            }
+          ],
+          "objectId": 53,
+          "centroid": { "y": 746542.0, "x": 200598.0, "geometryType": "point" },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם",
+                  "FieldValue": "בית המשפט לעניינים מקומיים - קריית ארבע וחברון",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "סוג",
+                  "FieldValue": "בתי המשפט לעניינים מקומיים",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "ישוב",
+                  "FieldValue": "קריית ארבע",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "בניין המועצה המקומית, קריית ארבע",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "מרכז מידע",
+                  "FieldValue": "077-2703333",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "למידע נוסף על בית המשפט באתר",
+                  "FieldValue": "https://www.gov.il/he/departments/bureaus/local_affairs_court_reception_of_the_public_kiryat_arba",
+                  "FieldType": 5
+                }
+              ]
+            }
+          ],
+          "objectId": 105,
+          "centroid": { "y": 604139.0, "x": 211361.0, "geometryType": "point" },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם",
+                  "FieldValue": "בית המשפט לענייני משפחה - ירושלים",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "סוג",
+                  "FieldValue": "בתי המשפט לענייני משפחה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "ישוב",
+                  "FieldValue": "ירושלים",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "רחוב בית הדפוס 12, ירושלים",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "מרכז מידע",
+                  "FieldValue": "077-2703333",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "למידע נוסף על בית המשפט באתר",
+                  "FieldValue": "https://www.gov.il/he/departments/bureaus/family_courts_reception_of_the_public_jerusalem",
+                  "FieldType": 5
+                }
+              ]
+            }
+          ],
+          "objectId": 64,
+          "centroid": { "y": 632656.0, "x": 217941.0, "geometryType": "point" },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם",
+                  "FieldValue": "בית המשפט לתביעות קטנות - ירושלים",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "סוג",
+                  "FieldValue": "בתי המשפט לתביעות קטנות",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "ישוב",
+                  "FieldValue": "ירושלים",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "רחוב חשין 6, ירושלים",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "מרכז מידע",
+                  "FieldValue": "077-2703333",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "למידע נוסף על בית המשפט באתר",
+                  "FieldValue": "https://www.gov.il/he/departments/bureaus/courts_reception_of_the_public_jerusalem",
+                  "FieldType": 5
+                }
+              ]
+            }
+          ],
+          "objectId": 66,
+          "centroid": { "y": 632060.0, "x": 221094.0, "geometryType": "point" },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם",
+                  "FieldValue": "בית המשפט לעניינים מקומיים - אריאל",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "סוג",
+                  "FieldValue": "בתי המשפט לעניינים מקומיים",
+                  "FieldType": 1
+                },
+                { "FieldName": "ישוב", "FieldValue": "אריאל", "FieldType": 1 },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "רחוב יהודה 15, אריאל",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "מרכז מידע",
+                  "FieldValue": "077-2703333",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "למידע נוסף על בית המשפט באתר",
+                  "FieldValue": "https://www.gov.il/he/departments/bureaus/local_affairs_court_reception_of_the_public_ariel",
+                  "FieldType": 5
+                }
+              ]
+            }
+          ],
+          "objectId": 13,
+          "centroid": { "y": 667946.0, "x": 216262.0, "geometryType": "point" },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם",
+                  "FieldValue": "בית המשפט לענייני משפחה - אשדוד",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "סוג",
+                  "FieldValue": "בתי המשפט לענייני משפחה",
+                  "FieldType": 1
+                },
+                { "FieldName": "ישוב", "FieldValue": "אשדוד", "FieldType": 1 },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "רחוב מורדי הגטאות 1, אשדוד",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "מרכז מידע",
+                  "FieldValue": "077-2703333",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "למידע נוסף על בית המשפט באתר",
+                  "FieldValue": "https://www.gov.il/he/departments/bureaus/family_courts_reception_of_the_public_ashdod",
+                  "FieldType": 5
+                }
+              ]
+            }
+          ],
+          "objectId": 15,
+          "centroid": { "y": 634786.0, "x": 167677.0, "geometryType": "point" },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם",
+                  "FieldValue": "בית המשפט לעניינים מקומיים - פתח תקווה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "סוג",
+                  "FieldValue": "בתי המשפט לעניינים מקומיים",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "ישוב",
+                  "FieldValue": "פתח תקווה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "רחוב בזל 1, פתח תקווה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "מרכז מידע",
+                  "FieldValue": "077-2703333",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "למידע נוסף על בית המשפט באתר",
+                  "FieldValue": "https://www.gov.il/he/departments/bureaus/local_affairs_court_reception_of_the_public_maale_petah_tikva",
+                  "FieldType": 5
+                }
+              ]
+            }
+          ],
+          "objectId": 94,
+          "centroid": { "y": 666832.0, "x": 187536.0, "geometryType": "point" },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם",
+                  "FieldValue": "בית המשפט העליון",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "סוג",
+                  "FieldValue": "בית המשפט העליון",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "ישוב",
+                  "FieldValue": "ירושלים",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "רחוב שערי משפט 1, קריית בן-גוריון ירושלים",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "מרכז מידע",
+                  "FieldValue": "077-2703333",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "למידע נוסף על בית המשפט באתר",
+                  "FieldValue": "https://www.gov.il/he/departments/bureaus/supreme_court_reception_of_the_public",
+                  "FieldType": 5
+                }
+              ]
+            }
+          ],
+          "objectId": 62,
+          "centroid": { "y": 632052.0, "x": 219411.0, "geometryType": "point" },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם",
+                  "FieldValue": "בית המשפט לנוער - נצרת",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "סוג",
+                  "FieldValue": "בתי משפט לנוער",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "ישוב",
+                  "FieldValue": "נוף הגליל",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "כיכר קריית יצחק רבין, היכל המשפט החדש, נוף הגליל",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "מרכז מידע",
+                  "FieldValue": "077-2703333",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "למידע נוסף על בית המשפט באתר",
+                  "FieldValue": "https://www.gov.il/he/departments/bureaus/juvenile_courts_reception_of_the_public_nazareth_illit",
+                  "FieldType": 5
+                }
+              ]
+            }
+          ],
+          "objectId": 78,
+          "centroid": { "y": 733992.0, "x": 229289.0, "geometryType": "point" },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם",
+                  "FieldValue": "בית המשפט לענייני משפחה - באר שבע",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "סוג",
+                  "FieldValue": "בתי המשפט לענייני משפחה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "ישוב",
+                  "FieldValue": "באר שבע",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "רחוב התקווה 5, באר שבע",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "מרכז מידע",
+                  "FieldValue": "077-2703333",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "למידע נוסף על בית המשפט באתר",
+                  "FieldValue": "https://www.gov.il/he/departments/bureaus/family_courts_reception_of_the_public_beer_sheva",
+                  "FieldType": 5
+                }
+              ]
+            }
+          ],
+          "objectId": 24,
+          "centroid": { "y": 572813.0, "x": 180850.0, "geometryType": "point" },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם",
+                  "FieldValue": "בית המשפט לתביעות קטנות - באר שבע",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "סוג",
+                  "FieldValue": "בתי המשפט לתביעות קטנות",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "ישוב",
+                  "FieldValue": "באר שבע",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "רחוב התקווה 5, באר שבע",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "מרכז מידע",
+                  "FieldValue": "077-2703333",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "למידע נוסף על בית המשפט באתר",
+                  "FieldValue": "https://www.gov.il/he/departments/bureaus/courts_reception_of_the_public_beer_sheva",
+                  "FieldType": 5
+                }
+              ]
+            }
+          ],
+          "objectId": 26,
+          "centroid": { "y": 572813.0, "x": 180850.0, "geometryType": "point" },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם",
+                  "FieldValue": "בית המשפט לתעבורה - אשדוד",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "סוג",
+                  "FieldValue": "בתי המשפט לתעבורה",
+                  "FieldType": 1
+                },
+                { "FieldName": "ישוב", "FieldValue": "אשדוד", "FieldType": 1 },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "רחוב מורדי הגטאות 1, אשדוד",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "מרכז מידע",
+                  "FieldValue": "077-2703333",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "למידע נוסף על בית המשפט באתר",
+                  "FieldValue": "https://www.gov.il/he/departments/bureaus/traffic_courts_reception_of_the_public_ashdod",
+                  "FieldType": 5
+                }
+              ]
+            }
+          ],
+          "objectId": 17,
+          "centroid": { "y": 634786.0, "x": 167677.0, "geometryType": "point" },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם",
+                  "FieldValue": "בית המשפט לנוער - רחובות",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "סוג",
+                  "FieldValue": "בתי משפט לנוער",
+                  "FieldType": 1
+                },
+                { "FieldName": "ישוב", "FieldValue": "רחובות", "FieldType": 1 },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "רחוב רוז'נסקי 9, רחובות",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "מרכז מידע",
+                  "FieldValue": "077-2703333",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "למידע נוסף על בית המשפט באתר",
+                  "FieldValue": "https://www.gov.il/he/departments/bureaus/juvenile_courts_reception_of_the_public_rehovot",
+                  "FieldType": 5
+                }
+              ]
+            }
+          ],
+          "objectId": 123,
+          "centroid": { "y": 644601.0, "x": 181510.0, "geometryType": "point" },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם",
+                  "FieldValue": "בית המשפט לענייני משפחה - תל אביב",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "סוג",
+                  "FieldValue": "בתי המשפט לענייני משפחה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "ישוב",
+                  "FieldValue": "תל אביב-יפו",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "רחוב ויצמן 1, תל אביב-יפו",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "מרכז מידע",
+                  "FieldValue": "077-2703333",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "למידע נוסף על בית המשפט באתר",
+                  "FieldValue": "https://www.gov.il/he/departments/bureaus/family_courts_reception_telaviv_court",
+                  "FieldType": 5
+                }
+              ]
+            }
+          ],
+          "objectId": 3,
+          "centroid": { "y": 664985.0, "x": 180137.0, "geometryType": "point" },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם",
+                  "FieldValue": "בית המשפט לעניינים מקומיים - גבעתיים",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "סוג",
+                  "FieldValue": "בתי המשפט לעניינים מקומיים",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "ישוב",
+                  "FieldValue": "גבעתיים",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "רחוב המעורר 11, גבעתיים",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "מרכז מידע",
+                  "FieldValue": "077-2703333",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "למידע נוסף על בית המשפט באתר",
+                  "FieldValue": "https://www.gov.il/he/departments/bureaus/local_affairs_court_reception_of_the_public_givatayim",
+                  "FieldType": 5
+                }
+              ]
+            }
+          ],
+          "objectId": 36,
+          "centroid": { "y": 665085.0, "x": 182026.0, "geometryType": "point" },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם",
+                  "FieldValue": "בית המשפט המחוזי - מרכז לוד",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "סוג",
+                  "FieldValue": "בתי המשפט המחוזיים",
+                  "FieldType": 1
+                },
+                { "FieldName": "ישוב", "FieldValue": "לוד", "FieldType": 1 },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "שדרות הציונות 3, לוד",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "מרכז מידע",
+                  "FieldValue": "077-2703333",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "למידע נוסף על בית המשפט באתר",
+                  "FieldValue": "https://www.gov.il/he/departments/bureaus/district_courts_reception_of_the_public_lod",
+                  "FieldType": 5
+                }
+              ]
+            }
+          ],
+          "objectId": 73,
+          "centroid": { "y": 650349.0, "x": 189904.0, "geometryType": "point" },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם",
+                  "FieldValue": "בית המשפט לנוער - פתח תקווה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "סוג",
+                  "FieldValue": "בתי משפט לנוער",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "ישוב",
+                  "FieldValue": "פתח תקווה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "רחוב בזל 1, פתח תקווה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "מרכז מידע",
+                  "FieldValue": "077-2703333",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "למידע נוסף על בית המשפט באתר",
+                  "FieldValue": "https://www.gov.il/he/departments/bureaus/juvenile_courts_reception_of_the_public_petah_tikva",
+                  "FieldType": 5
+                }
+              ]
+            }
+          ],
+          "objectId": 92,
+          "centroid": { "y": 666832.0, "x": 187536.0, "geometryType": "point" },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם",
+                  "FieldValue": "בית משפט השלום - מחוז תל אביב - הרצליה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "סוג",
+                  "FieldValue": "בתי משפט השלום",
+                  "FieldType": 1
+                },
+                { "FieldName": "ישוב", "FieldValue": "הרצליה", "FieldType": 1 },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "רחוב בן גוריון 31, הרצליה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "מרכז מידע",
+                  "FieldValue": "077-2703333",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "למידע נוסף על בית המשפט באתר",
+                  "FieldValue": "https://www.gov.il/he/departments/bureaus/magistrates_courts_reception_of_the_public_herzliya",
+                  "FieldType": 5
+                }
+              ]
+            }
+          ],
+          "objectId": 42,
+          "centroid": { "y": 674330.0, "x": 185407.0, "geometryType": "point" },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם",
+                  "FieldValue": "בית המשפט לתביעות קטנות - כפר סבא",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "סוג",
+                  "FieldValue": "בתי המשפט לתביעות קטנות",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "ישוב",
+                  "FieldValue": "כפר-סבא",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "רחוב הטחנה 5, כפר סבא",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "מרכז מידע",
+                  "FieldValue": "077-2703333",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "למידע נוסף על בית המשפט באתר",
+                  "FieldValue": "https://www.gov.il/he/departments/bureaus/courts_reception_of_the_public_kfar_saba",
+                  "FieldType": 5
+                }
+              ]
+            }
+          ],
+          "objectId": 70,
+          "centroid": { "y": 675551.0, "x": 189904.0, "geometryType": "point" },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם",
+                  "FieldValue": "בית המשפט המחוזי - חיפה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "סוג",
+                  "FieldValue": "בתי המשפט המחוזיים",
+                  "FieldType": 1
+                },
+                { "FieldName": "ישוב", "FieldValue": "חיפה", "FieldType": 1 },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "שדרות הפלי\"ם 12, חיפה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "מרכז מידע",
+                  "FieldValue": "077-2703333",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "למידע נוסף על בית המשפט באתר",
+                  "FieldValue": "https://www.gov.il/he/departments/bureaus/district_courts_reception_of_the_public_haifa",
+                  "FieldType": 5
+                }
+              ]
+            }
+          ],
+          "objectId": 50,
+          "centroid": { "y": 746625.0, "x": 200479.0, "geometryType": "point" },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם",
+                  "FieldValue": "ביץ המשפט לנוער - חיפה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "סוג",
+                  "FieldValue": "בתי משפט לנוער",
+                  "FieldType": 1
+                },
+                { "FieldName": "ישוב", "FieldValue": "חיפה", "FieldType": 1 },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "שדרות הפלי\"ם 12, חיפה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "מרכז מידע",
+                  "FieldValue": "077-2703333",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "למידע נוסף על בית המשפט באתר",
+                  "FieldValue": "https://www.gov.il/he/departments/bureaus/juvenile_courts_reception_of_the_public_haifa",
+                  "FieldType": 5
+                }
+              ]
+            }
+          ],
+          "objectId": 51,
+          "centroid": { "y": 746625.0, "x": 200479.0, "geometryType": "point" },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם",
+                  "FieldValue": "בית המשפט לעניינים מקומיים - ירושלים",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "סוג",
+                  "FieldValue": "בתי המשפט לעניינים מקומיים",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "ישוב",
+                  "FieldValue": "ירושלים",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "רחוב שבטי ישראל 7, ירושלים",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "מרכז מידע",
+                  "FieldValue": "077-2703333",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "למידע נוסף על בית המשפט באתר",
+                  "FieldValue": "https://www.gov.il/he/departments/bureaus/local_affairs_court_reception_of_the_public_jerusalem",
+                  "FieldType": 5
+                }
+              ]
+            }
+          ],
+          "objectId": 65,
+          "centroid": { "y": 631937.0, "x": 221388.0, "geometryType": "point" },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם",
+                  "FieldValue": "בית המשפט לעניינים מקומיים - מעלה אדומים",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "סוג",
+                  "FieldValue": "בתי המשפט לעניינים מקומיים",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "ישוב",
+                  "FieldValue": "מעלה אדומים",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "רחוב הצורן 2, מעלה אדומים",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "מרכז מידע",
+                  "FieldValue": "077-2703333",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "למידע נוסף על בית המשפט באתר",
+                  "FieldValue": "https://www.gov.il/he/departments/bureaus/local_affairs_court_reception_of_the_public_maale_adummim",
+                  "FieldType": 5
+                }
+              ]
+            }
+          ],
+          "objectId": 76,
+          "centroid": { "y": 631693.0, "x": 229659.0, "geometryType": "point" },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם",
+                  "FieldValue": "בית המשפט המחוזי - נצרת",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "סוג",
+                  "FieldValue": "בתי המשפט המחוזיים",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "ישוב",
+                  "FieldValue": "נוף הגליל",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "כיכר קריית יצחק רבין, היכל המשפט החדש, נוף הגליל",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "מרכז מידע",
+                  "FieldValue": "077-2703333",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "למידע נוסף על בית המשפט באתר",
+                  "FieldValue": "https://www.gov.il/he/departments/bureaus/district_courts_reception_of_the_public_nazareth_illit",
+                  "FieldType": 5
+                }
+              ]
+            }
+          ],
+          "objectId": 77,
+          "centroid": { "y": 733992.0, "x": 229289.0, "geometryType": "point" },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם",
+                  "FieldValue": "בית המשפט לתעבורה - נצרת",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "סוג",
+                  "FieldValue": "בתי המשפט לתעבורה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "ישוב",
+                  "FieldValue": "נוף הגליל",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "כיכר קריית יצחק רבין, היכל המשפט החדש, נוף הגליל",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "מרכז מידע",
+                  "FieldValue": "077-2703333",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "למידע נוסף על בית המשפט באתר",
+                  "FieldValue": "https://www.gov.il/he/departments/bureaus/traffic_courts_reception_of_the_public_nazareth_illit",
+                  "FieldType": 5
+                }
+              ]
+            }
+          ],
+          "objectId": 81,
+          "centroid": { "y": 733992.0, "x": 229289.0, "geometryType": "point" },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם",
+                  "FieldValue": "בית משפט השלום - מחוז צפון - נצרת",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "סוג",
+                  "FieldValue": "בתי משפט השלום",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "ישוב",
+                  "FieldValue": "נוף הגליל",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "כיכר קריית יצחק רבין, היכל המשפט החדש, נוף הגליל",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "מרכז מידע",
+                  "FieldValue": "077-2703333",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "למידע נוסף על בית המשפט באתר",
+                  "FieldValue": "https://www.gov.il/he/departments/bureaus/magistrates_courts_reception_of_the_public_nazareth_illit",
+                  "FieldType": 5
+                }
+              ]
+            }
+          ],
+          "objectId": 82,
+          "centroid": { "y": 733992.0, "x": 229289.0, "geometryType": "point" },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם",
+                  "FieldValue": "בית משפט השלום - מחוז חיפה - עכו",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "סוג",
+                  "FieldValue": "בתי משפט השלום",
+                  "FieldType": 1
+                },
+                { "FieldName": "ישוב", "FieldValue": "עכו", "FieldType": 1 },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "רחוב יהושפט 15, עכו",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "מרכז מידע",
+                  "FieldValue": "077-2703333",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "למידע נוסף על בית המשפט באתר",
+                  "FieldValue": "https://www.gov.il/he/departments/bureaus/magistrates_courts_reception_of_the_public_akko",
+                  "FieldType": 5
+                }
+              ]
+            }
+          ],
+          "objectId": 89,
+          "centroid": { "y": 758889.0, "x": 207439.0, "geometryType": "point" },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם",
+                  "FieldValue": "בית משפט השלום - מחוז חיפה - קריות",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "סוג",
+                  "FieldValue": "בתי משפט השלום",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "ישוב",
+                  "FieldValue": "קריית ביאליק",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "דרך עכו 194, קריית ביאליק",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "מרכז מידע",
+                  "FieldValue": "077-2703333",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "למידע נוסף על בית המשפט באתר",
+                  "FieldValue": "https://www.gov.il/he/departments/bureaus/magistrates_courts_reception_of_the_public_krayot",
+                  "FieldType": 5
+                }
+              ]
+            }
+          ],
+          "objectId": 108,
+          "centroid": { "y": 750177.0, "x": 208926.0, "geometryType": "point" },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם",
+                  "FieldValue": "בית המשפט לתביעות קטנות - בית שאן",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "סוג",
+                  "FieldValue": "בתי המשפט לתביעות קטנות",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "ישוב",
+                  "FieldValue": "בית שאן",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "רחוב שאול המלך 31, בית שאן",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "מרכז מידע",
+                  "FieldValue": "077-2703333",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "למידע נוסף על בית המשפט באתר",
+                  "FieldValue": "https://www.gov.il/he/departments/bureaus/courts_reception_of_the_public_bet_shean",
+                  "FieldType": 5
+                }
+              ]
+            }
+          ],
+          "objectId": 30,
+          "centroid": { "y": 712057.0, "x": 246628.0, "geometryType": "point" },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם",
+                  "FieldValue": "בית המשפט לתביעות קטנות - עכו",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "סוג",
+                  "FieldValue": "בתי המשפט לתביעות קטנות",
+                  "FieldType": 1
+                },
+                { "FieldName": "ישוב", "FieldValue": "עכו", "FieldType": 1 },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "רחוב יהושפט 15, עכו",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "מרכז מידע",
+                  "FieldValue": "077-2703333",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "למידע נוסף על בית המשפט באתר",
+                  "FieldValue": "https://www.gov.il/he/departments/bureaus/courts_reception_of_the_public_akko",
+                  "FieldType": 5
+                }
+              ]
+            }
+          ],
+          "objectId": 87,
+          "centroid": { "y": 758889.0, "x": 207439.0, "geometryType": "point" },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם",
+                  "FieldValue": "בית המשפט לתביעות קטנות - קריות",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "סוג",
+                  "FieldValue": "בתי המשפט לתביעות קטנות",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "ישוב",
+                  "FieldValue": "קריית ביאליק",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "דרך עכו 194, קריית ביאליק",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "מרכז מידע",
+                  "FieldValue": "077-2703333",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "למידע נוסף על בית המשפט באתר",
+                  "FieldValue": "https://www.gov.il/he/departments/bureaus/courts_reception_of_the_public_krayot",
+                  "FieldType": 5
+                }
+              ]
+            }
+          ],
+          "objectId": 109,
+          "centroid": { "y": 750177.0, "x": 208926.0, "geometryType": "point" },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם",
+                  "FieldValue": "בית משפט השלום - מחוז צפון - בית שאן",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "סוג",
+                  "FieldValue": "בתי משפט השלום",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "ישוב",
+                  "FieldValue": "בית שאן",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "רחוב שאול המלך 31, בית שאן",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "מרכז מידע",
+                  "FieldValue": "077-2703333",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "למידע נוסף על בית המשפט באתר",
+                  "FieldValue": "https://www.gov.il/he/departments/bureaus/magistrates_courts_reception_of_the_public_bet_shean",
+                  "FieldType": 5
+                }
+              ]
+            }
+          ],
+          "objectId": 29,
+          "centroid": { "y": 712057.0, "x": 246628.0, "geometryType": "point" },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם",
+                  "FieldValue": "בית המשפט לתביעות קטנות - דימונה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "סוג",
+                  "FieldValue": "בתי המשפט לתביעות קטנות",
+                  "FieldType": 1
+                },
+                { "FieldName": "ישוב", "FieldValue": "דימונה", "FieldType": 1 },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "שדרות בן-גוריון 1, דימונה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "מרכז מידע",
+                  "FieldValue": "077-2703333",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "למידע נוסף על בית המשפט באתר",
+                  "FieldValue": "https://www.gov.il/he/departments/bureaus/courts_reception_of_the_public_dimona",
+                  "FieldType": 5
+                }
+              ]
+            }
+          ],
+          "objectId": 38,
+          "centroid": { "y": 553015.0, "x": 203322.0, "geometryType": "point" },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם",
+                  "FieldValue": "בית המשפט לענייני משפחה - קריות",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "סוג",
+                  "FieldValue": "בתי המשפט לענייני משפחה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "ישוב",
+                  "FieldValue": "קריית ביאליק",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "דרך עכו 194, קריית ביאליק",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "מרכז מידע",
+                  "FieldValue": "077-2703333",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "למידע נוסף על בית המשפט באתר",
+                  "FieldValue": "https://www.gov.il/he/departments/bureaus/family_courts_reception_of_the_public_krayot",
+                  "FieldType": 5
+                }
+              ]
+            }
+          ],
+          "objectId": 106,
+          "centroid": { "y": 750177.0, "x": 208926.0, "geometryType": "point" },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם",
+                  "FieldValue": "בית המשפט לנוער - דימונה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "סוג",
+                  "FieldValue": "בתי משפט לנוער",
+                  "FieldType": 1
+                },
+                { "FieldName": "ישוב", "FieldValue": "דימונה", "FieldType": 1 },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "שדרות בן-גוריון 1, דימונה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "מרכז מידע",
+                  "FieldValue": "077-2703333",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "למידע נוסף על בית המשפט באתר",
+                  "FieldValue": "https://www.gov.il/he/departments/bureaus/juvenile_courts_reception_of_the_public_dimona",
+                  "FieldType": 5
+                }
+              ]
+            }
+          ],
+          "objectId": 37,
+          "centroid": { "y": 553015.0, "x": 203322.0, "geometryType": "point" },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם",
+                  "FieldValue": "בית משפט השלום - מחוז דרום - דימונה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "סוג",
+                  "FieldValue": "בתי משפט השלום",
+                  "FieldType": 1
+                },
+                { "FieldName": "ישוב", "FieldValue": "דימונה", "FieldType": 1 },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "שדרות בן-גוריון 1, דימונה",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "מרכז מידע",
+                  "FieldValue": "077-2703333",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "למידע נוסף על בית המשפט באתר",
+                  "FieldValue": "https://www.gov.il/he/departments/bureaus/magistrates_courts_reception_of_the_public_dimona",
+                  "FieldType": 5
+                }
+              ]
+            }
+          ],
+          "objectId": 39,
+          "centroid": { "y": 553015.0, "x": 203322.0, "geometryType": "point" },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם",
+                  "FieldValue": "בית המשפט לתעבורה - עכו",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "סוג",
+                  "FieldValue": "בתי המשפט לתעבורה",
+                  "FieldType": 1
+                },
+                { "FieldName": "ישוב", "FieldValue": "עכו", "FieldType": 1 },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "רחוב יהושפט 15, עכו",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "מרכז מידע",
+                  "FieldValue": "077-2703333",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "למידע נוסף על בית המשפט באתר",
+                  "FieldValue": "https://www.gov.il/he/departments/bureaus/traffic_courts_reception_of_the_public_akko",
+                  "FieldType": 5
+                }
+              ]
+            }
+          ],
+          "objectId": 88,
+          "centroid": { "y": 758889.0, "x": 207439.0, "geometryType": "point" },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        },
+        {
+          "tabs": [
+            {
+              "tabCaption": null,
+              "fields": [
+                {
+                  "FieldName": "שם",
+                  "FieldValue": "בית המשפט לעניינים מקומיים - קריות",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "סוג",
+                  "FieldValue": "בתי המשפט לעניינים מקומיים",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "ישוב",
+                  "FieldValue": "קריית ביאליק",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "כתובת",
+                  "FieldValue": "דרך עכו 194, קריית ביאליק",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "מרכז מידע",
+                  "FieldValue": "077-2703333",
+                  "FieldType": 1
+                },
+                {
+                  "FieldName": "למידע נוסף על בית המשפט באתר",
+                  "FieldValue": "https://www.gov.il/he/departments/bureaus/local_affairs_court_reception_of_the_public_krayot",
+                  "FieldType": 5
+                }
+              ]
+            }
+          ],
+          "objectId": 107,
+          "centroid": { "y": 750177.0, "x": 208926.0, "geometryType": "point" },
+          "missingInfoCode": 9,
+          "FooterType": 0,
+          "isEditable": false,
+          "extent": null
+        }
+      ],
+      "lyrSelection": {
+        "dataSource": "SDE.courts",
+        "fillColor": ["6", "55", "158", "0.4"],
+        "outLineColor": ["6", "55", "158", "0.5"],
+        "filter": null,
+        "geometryType": 0,
+        "marker": false,
+        "centroid": null,
+        "SelectedExtent": null
+      },
+      "SelectionFilterTemplate": "OBJECTID= {0}",
+      "IsUserLayer": false,
+      "CurrentLayer": {
+        "minScale": 0.0,
+        "maxScale": 0.0,
+        "transparent": false,
+        "layerIcon": {
+          "type": 0,
+          "bars": null,
+          "outline": null,
+          "css": "batei_mishpat"
+        },
+        "resourceName": "additionaldata",
+        "resourceType": 0,
+        "officeId": 60,
+        "keywords": ["הנהלת בתי משפט", "בתי משפט", "הרשות השופטת"],
+        "loadOnStart": false,
+        "linkToWeb": ["LINK"],
+        "workingHours": "",
+        "download": null,
+        "layerID": 158,
+        "caption": "בתי המשפט",
+        "layerName": "BATEI_MISHPAT",
+        "layerType": 0,
+        "visible": false,
+        "order": 0,
+        "layerKind": 0,
+        "categoryId": 8,
+        "layerRenderer": null,
+        "dontShowInLayers": false,
+        "showEntityLength": false,
+        "legendUrl": null,
+        "legendCss": null,
+        "legendBase64": null,
+        "definitionExpression": "",
+        "description": null,
+        "showInPersonalSite": true,
+        "layerSource": null,
+        "filter": ""
+      }
+    }
+  ],
+  "active": false
+}
