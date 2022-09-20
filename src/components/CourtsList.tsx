@@ -1,4 +1,4 @@
-import { Container, Stack } from "@mui/material";
+import { Container, Grid, Stack } from "@mui/material";
 import usePagination from "$/hooks/usePagination";
 import { Court } from "$/services/CourtsService";
 
@@ -22,25 +22,35 @@ const CourtsList = ({ courts, itemsPerPage = 10 }: CourtsListProps) => {
     hasPrev,
   } = usePagination(courts, itemsPerPage);
 
+  const toolbar = (
+    <PaginationToolbar
+      pages={pages}
+      currentPage={currentPage}
+      hasNext={hasNext}
+      hasPrev={hasPrev}
+      onNext={next}
+      onPrev={prev}
+      onJump={jump}
+    />
+  );
+
   return (
-    <Container maxWidth="lg">
-      <Stack spacing={2}>
-        <PaginationToolbar
-          pages={pages}
-          currentPage={currentPage}
-          onNext={next}
-          onPrev={prev}
-          onJump={jump}
-          hasNext={hasNext}
-          hasPrev={hasPrev}
-        />
-        <Stack direction="column" spacing={2}>
-          {paginatedItems.map((court) => (
+    <Stack
+      direction="column"
+      gap={2}
+      justifyContent="center"
+      alignContent="center"
+    >
+      {toolbar}
+      <Grid container direction="row-reverse" spacing={2}>
+        {paginatedItems.map((court) => (
+          <Grid item key={court.id} xs={12} md={6}>
             <CourtCard key={court.id} court={court} onSelect={console.log} />
-          ))}
-        </Stack>
-      </Stack>
-    </Container>
+          </Grid>
+        ))}
+      </Grid>
+      {toolbar}
+    </Stack>
   );
 };
 export default CourtsList;

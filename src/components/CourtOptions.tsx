@@ -2,10 +2,8 @@ import CourtsService from "$/services/CourtsService";
 import { AccountBalanceOutlined as AccountBalance } from "@mui/icons-material";
 import {
   FormControl,
+  FormControlProps,
   InputLabel,
-  ListItem,
-  ListItemIcon,
-  ListItemText,
   MenuItem,
   Select,
   Stack,
@@ -13,11 +11,11 @@ import {
 } from "@mui/material";
 import { useState } from "react";
 
-interface CourtOptionsProps {
+interface CourtOptionsProps extends Omit<FormControlProps, "onSelect"> {
   onSelect: (courtType: string) => void;
 }
 
-const CourtOptions = ({ onSelect }: CourtOptionsProps) => {
+const CourtOptions = ({ onSelect, ...props }: CourtOptionsProps) => {
   const [value, setValue] = useState<string>("הכל");
   const label = "סוג בית משפט";
 
@@ -26,7 +24,7 @@ const CourtOptions = ({ onSelect }: CourtOptionsProps) => {
     onSelect(courtType);
   };
   return (
-    <FormControl fullWidth dir="rtl">
+    <FormControl {...props} dir="rtl">
       <InputLabel>{label}</InputLabel>
 
       <Select

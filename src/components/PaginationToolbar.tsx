@@ -1,8 +1,8 @@
 import {
-  KeyboardArrowLeft,
-  KeyboardArrowRight,
-  KeyboardDoubleArrowLeft,
-  KeyboardDoubleArrowRight,
+  FirstPage,
+  LastPage,
+  NavigateBefore,
+  NavigateNext,
 } from "@mui/icons-material";
 import { Button, ButtonProps, IconButton, Stack } from "@mui/material";
 
@@ -45,7 +45,12 @@ const PaginationToolbar = ({
   };
 
   return (
-    <Stack direction="row-reverse" spacing={1}>
+    <Stack
+      alignSelf="flex-end"
+      direction="row"
+      spacing={1}
+      justifyContent="center"
+    >
       {withFirstLast && (
         <IconButton
           disabled={!hasPrev}
@@ -53,7 +58,7 @@ const PaginationToolbar = ({
           color="primary"
           size={size}
         >
-          <KeyboardDoubleArrowRight fontSize={size} />
+          <LastPage fontSize={size} />
         </IconButton>
       )}
 
@@ -63,7 +68,7 @@ const PaginationToolbar = ({
         color="primary"
         size={size}
       >
-        <KeyboardArrowRight fontSize={size} />
+        <NavigateNext fontSize={size} />
       </IconButton>
       {Array.from(
         { length: pages <= frameSize ? pages : frameSize },
@@ -79,15 +84,16 @@ const PaginationToolbar = ({
       )}
 
       <IconButton disabled={!hasNext} onClick={onNext} color="primary">
-        <KeyboardArrowLeft />
+        <NavigateBefore fontSize={size} />
       </IconButton>
       {withFirstLast && (
         <IconButton
           disabled={!hasNext}
           onClick={() => onJump(pages - 1)}
           color="primary"
+          size={size}
         >
-          <KeyboardDoubleArrowLeft fontSize="small" />
+          <FirstPage fontSize={size} />
         </IconButton>
       )}
     </Stack>
@@ -111,7 +117,12 @@ const PaginationButton = ({
 }: PaginationButtonProps) => {
   return (
     <Button
-      variant={page === currentPage ? "contained" : "text"}
+      sx={{
+        userSelect: "none",
+        pointerEvents: currentPage === page ? "none" : "auto",
+        minWidth: 36,
+      }}
+      variant={page === currentPage ? "outlined" : "text"}
       size={size}
       onClick={() => onClick(page)}
     >

@@ -1,4 +1,4 @@
-import CourtsService, { Court } from "$/services/CourtsService";
+import { Court } from "$/services/CourtsService";
 
 export enum RendererType {
   Simple = "0",
@@ -20,7 +20,7 @@ const GovMapEmbed = ({
   layer = RendererType.Simple,
   depth = "5",
 }: GovMapEmbedProps) => {
-  const { coords, data } = court;
+  const { coords } = court;
   const coordsString = `${coords.x},${coords.y}`;
   const queryParams = {
     c: coordsString,
@@ -34,7 +34,9 @@ const GovMapEmbed = ({
     .join("&");
   const url = `https://www.govmap.gov.il/map.html?${paramsString}`;
   console.log({ court, url });
-  return <iframe src={url} width="100%" height="100%"></iframe>;
+  return (
+    <iframe src={url} width="100%" height="100%" style={{ border: "none" }} />
+  );
 };
 
 export default GovMapEmbed;
