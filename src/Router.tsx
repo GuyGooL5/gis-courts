@@ -4,12 +4,12 @@ import HomePage from "./HomePage";
 import WelcomePage from "./WelcomePage";
 
 const Router = () => (
-  <BrowserRouter basename="gis-courts">
+  <BrowserRouter basename="/gis-courts">
     <Routes>
       <Route path="/" element={<WelcomePage />} />
       <Route path="home" element={<HomePage />} />
       <Route path="map" element={<GeomapPage />} />
-      <Route path="*" element={<Navigate to="/home" />} />
+      <Route path="*" element={<Navigate to="home" />} />
     </Routes>
   </BrowserRouter>
 );

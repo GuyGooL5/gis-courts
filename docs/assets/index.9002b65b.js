@@ -203,4 +203,4 @@ northing meters`+e;var f=d/2,p=0,h=0,m,w,v,g,y;return f>0&&(m=1e5/Math.pow(10,f)
   background: linear-gradient(0deg, #0044ff 0%, #0084ff 100%);
   pointer-events: none;
   z-index: -1;
-`,xO=()=>S(nP,{basename:"gis-courts",children:ne(tP,{children:[S(ls,{path:"/",element:S(fO,{})}),S(ls,{path:"home",element:S(uO,{})}),S(ls,{path:"map",element:S(_P,{})}),S(ls,{path:"*",element:S(Z$,{to:"/home"})})]})});function _O(){return ne("div",{className:"App",children:[S(q4,{}),S(xO,{})]})}Gc.createRoot(document.getElementById("root")).render(S(fo.StrictMode,{children:S(_O,{})}))});export default bO();
+`,xO=()=>S(nP,{basename:"/gis-courts",children:ne(tP,{children:[S(ls,{path:"/",element:S(fO,{})}),S(ls,{path:"home",element:S(uO,{})}),S(ls,{path:"map",element:S(_P,{})}),S(ls,{path:"*",element:S(Z$,{to:"home"})})]})});function _O(){return ne("div",{className:"App",children:[S(q4,{}),S(xO,{})]})}Gc.createRoot(document.getElementById("root")).render(S(fo.StrictMode,{children:S(_O,{})}))});export default bO();
